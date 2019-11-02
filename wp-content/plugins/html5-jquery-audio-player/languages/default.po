@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HTML5 jQuery Audio Player Free\n"
+"POT-Creation-Date: 2015-10-12 17:02+0800\n"
+"PO-Revision-Date: 2015-10-12 17:02+0800\n"
+"Last-Translator: Maeve Lander <support@enigmaplugins.com>\n"
+"Language-Team: Enigma Plugins <maeve@enigmaplugins.com.au>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../player\n"
+"X-Poedit-SearchPath-2: ../includes\n"
+"X-Poedit-SearchPath-3: ../playlist\n"
+
+#: ../index.php:178
+msgid "Sample Track"
+msgstr ""
+
+#: ../index.php:179
+msgid "Sample"
+msgstr ""
+
+#: ../index.php:249
+msgid "Thank You"
+msgstr ""
+
+#: ../index.php:251
+msgid "Already rated"
+msgstr ""
+
+#: ../player/settings.php:5
+msgid "Display Settings"
+msgstr ""
+
+#: ../player/settings.php:16 ../playlist/add_playlist.php:162
+#: ../playlist/add_playlist.php:505
+msgid "Help Improve This Plugin!"
+msgstr ""
+
+#: ../player/settings.php:23 ../playlist/add_playlist.php:169
+#: ../playlist/add_playlist.php:512
+msgid ""
+"Enjoyed this plugin? All donations are used to improve and further develop "
+"this plugin. Thanks for your contribution."
+msgstr ""
+
+#: ../player/settings.php:38 ../playlist/add_playlist.php:184
+#: ../playlist/add_playlist.php:527
+msgid "You can also help by"
+msgstr ""
+
+#: ../player/settings.php:40 ../playlist/add_playlist.php:186
+#: ../playlist/add_playlist.php:529
+msgid "rating this plugin on wordpress.org"
+msgstr ""
+
+#: ../player/settings.php:50 ../playlist/add_playlist.php:538
+msgid "Pro Version"
+msgstr ""
+
+#: ../player/settings.php:58 ../playlist/add_playlist.php:203
+#: ../playlist/add_playlist.php:546
+msgid "Mulitple Playlists"
+msgstr ""
+
+#: ../player/settings.php:61 ../playlist/add_playlist.php:206
+#: ../playlist/add_playlist.php:549
+msgid "Drag n Drop playlist manager so you can reorder tracks"
+msgstr ""
+
+#: ../player/settings.php:64 ../playlist/add_playlist.php:209
+#: ../playlist/add_playlist.php:552
+msgid "Fully Responsive"
+msgstr ""
+
+#: ../player/settings.php:67 ../playlist/add_playlist.php:212
+#: ../playlist/add_playlist.php:555
+msgid "More customisation options"
+msgstr ""
+
+#: ../player/settings.php:70 ../playlist/add_playlist.php:215
+#: ../playlist/add_playlist.php:558
+msgid ""
+"On/off option for ratings, artwork, artist field, auto-repeat, and cover art"
+msgstr ""
+
+#: ../player/settings.php:73 ../playlist/add_playlist.php:218
+#: ../playlist/add_playlist.php:561
+msgid "Widget support"
+msgstr ""
+
+#: ../player/settings.php:76 ../playlist/add_playlist.php:221
+#: ../playlist/add_playlist.php:564
+msgid "3 buy/download buttons (optional)"
+msgstr ""
+
+#: ../player/settings.php:81 ../playlist/add_playlist.php:226
+#: ../playlist/add_playlist.php:569
+msgid "Get Pro"
+msgstr ""
+
+#: ../player/settings.php:91 ../playlist/add_playlist.php:235
+#: ../playlist/add_playlist.php:578
+msgid "Need Support?"
+msgstr ""
+
+#: ../player/settings.php:97 ../playlist/add_playlist.php:241
+#: ../playlist/add_playlist.php:584
+msgid "If you are having problems with this plugin please visit the"
+msgstr ""
+
+#: ../player/settings.php:99 ../playlist/add_playlist.php:243
+#: ../playlist/add_playlist.php:586
+msgid "Support Forum"
+msgstr ""
+
+#: ../player/settings.php:112
+msgid "Show Buy Text"
+msgstr ""
+
+#: ../player/settings.php:116 ../player/settings.php:142
+#: ../player/settings.php:155
+msgid "Yes"
+msgstr ""
+
+#: ../player/settings.php:118 ../player/settings.php:144
+#: ../player/settings.php:157
+msgid "No"
+msgstr ""
+
+#: ../player/settings.php:125
+msgid "Buy Text"
+msgstr ""
+
+#: ../player/settings.php:131
+msgid "works only if you have selected show buy text to 'YES'"
+msgstr ""
+
+#: ../player/settings.php:138
+msgid "Show Track List"
+msgstr ""
+
+#: ../player/settings.php:151
+msgid "Auto Play"
+msgstr ""
+
+#: ../player/settings.php:163
+msgid "Number Of Tracks"
+msgstr ""
+
+#: ../player/settings.php:169
+msgid "works only if you have selected show track list to 'YES'"
+msgstr ""
+
+#: ../player/settings.php:176
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../player/settings.php:186
+msgid "Background Colour"
+msgstr ""
+
+#: ../player/settings.php:193
+msgid "Insert colour code in the format #000000 or use 'transparent'"
+msgstr ""
+
+#: ../player/settings.php:200
+msgid "Text Colour"
+msgstr ""
+
+#: ../player/settings.php:208
+msgid "Insert colour code in the format #cccccc"
+msgstr ""
+
+#: ../player/settings.php:214
+msgid "Save Changes"
+msgstr ""
+
+#: ../playlist/add_playlist.php:5
+msgid "Manage Songs"
+msgstr ""
+
+#: ../playlist/add_playlist.php:73
+msgid "Song added successfully to the playlist"
+msgstr ""
+
+#: ../playlist/add_playlist.php:75 ../playlist/add_playlist.php:109
+msgid "Please fill all fields marked 'required'"
+msgstr ""
+
+#: ../playlist/add_playlist.php:107
+msgid "Song updated successfully "
+msgstr ""
+
+#: ../playlist/add_playlist.php:116
+msgid "Song delete successfully "
+msgstr ""
+
+#: ../playlist/add_playlist.php:118
+msgid "Something went wrong"
+msgstr ""
+
+#: ../playlist/add_playlist.php:195
+msgid "Pro Version Features"
+msgstr ""
+
+#: ../playlist/add_playlist.php:255
+msgid "MP3 Link update"
+msgstr ""
+
+#: ../playlist/add_playlist.php:265 ../playlist/add_playlist.php:284
+#: ../playlist/add_playlist.php:317 ../playlist/add_playlist.php:366
+#: ../playlist/add_playlist.php:608 ../playlist/add_playlist.php:627
+#: ../playlist/add_playlist.php:660 ../playlist/add_playlist.php:709
+msgid "Required"
+msgstr ""
+
+#: ../playlist/add_playlist.php:267 ../playlist/add_playlist.php:610
+msgid "Full File Path of mp3 file"
+msgstr ""
+
+#: ../playlist/add_playlist.php:274 ../playlist/add_playlist.php:617
+msgid "Ogg Link"
+msgstr ""
+
+#: ../playlist/add_playlist.php:286 ../playlist/add_playlist.php:629
+msgid "Full File Path of ogg file"
+msgstr ""
+
+#: ../playlist/add_playlist.php:293 ../playlist/add_playlist.php:636
+#: ../playlist/add_playlist.php:781 ../playlist/add_playlist.php:820
+msgid "Rating"
+msgstr ""
+
+#: ../playlist/add_playlist.php:301
+msgid "Plz put digit 1 to 5"
+msgstr ""
+
+#: ../playlist/add_playlist.php:308 ../playlist/add_playlist.php:651
+msgid "Song Title"
+msgstr ""
+
+#: ../playlist/add_playlist.php:319 ../playlist/add_playlist.php:662
+msgid "Title of the song"
+msgstr ""
+
+#: ../playlist/add_playlist.php:326 ../playlist/add_playlist.php:669
+msgid "Link Buy Text"
+msgstr ""
+
+#: ../playlist/add_playlist.php:334 ../playlist/add_playlist.php:677
+msgid "This will link BUY button"
+msgstr ""
+
+#: ../playlist/add_playlist.php:341 ../playlist/add_playlist.php:684
+msgid "Song Price"
+msgstr ""
+
+#: ../playlist/add_playlist.php:349 ../playlist/add_playlist.php:692
+msgid "Price of the song"
+msgstr ""
+
+#: ../playlist/add_playlist.php:356 ../playlist/add_playlist.php:699
+msgid "Cover Image"
+msgstr ""
+
+#: ../playlist/add_playlist.php:368 ../playlist/add_playlist.php:711
+msgid "Full File Path to cover image ( 125*125 )"
+msgstr ""
+
+#: ../playlist/add_playlist.php:375 ../playlist/add_playlist.php:718
+#: ../playlist/add_playlist.php:786 ../playlist/add_playlist.php:825
+msgid "Duration"
+msgstr ""
+
+#: ../playlist/add_playlist.php:383 ../playlist/add_playlist.php:729
+msgid "Duration of the song"
+msgstr ""
+
+#: ../playlist/add_playlist.php:390 ../playlist/add_playlist.php:736
+#: ../playlist/add_playlist.php:771 ../playlist/add_playlist.php:810
+msgid "Artist"
+msgstr ""
+
+#: ../playlist/add_playlist.php:398 ../playlist/add_playlist.php:744
+msgid "Artist of the song"
+msgstr ""
+
+#: ../playlist/add_playlist.php:404
+msgid "Update Song"
+msgstr ""
+
+#: ../playlist/add_playlist.php:408 ../playlist/add_playlist.php:446
+msgid "Add New Song"
+msgstr ""
+
+#: ../playlist/add_playlist.php:598
+msgid "MP3 Link"
+msgstr ""
+
+#: ../playlist/add_playlist.php:644
+msgid "Please put digit 1 to 5"
+msgstr ""
+
+#: ../playlist/add_playlist.php:727
+msgid "Format: 10:00"
+msgstr ""
+
+#: ../playlist/add_playlist.php:750
+msgid "Add Song"
+msgstr ""
+
+#: ../playlist/add_playlist.php:766 ../playlist/add_playlist.php:805
+msgid "Title"
+msgstr ""
+
+#: ../playlist/add_playlist.php:776 ../playlist/add_playlist.php:815
+msgid "Price"
+msgstr ""
+
+#: ../playlist/add_playlist.php:791 ../playlist/add_playlist.php:830
+msgid "Edit"
+msgstr ""
+
+#: ../playlist/add_playlist.php:796 ../playlist/add_playlist.php:835
+#: ../playlist/add_playlist.php:872
+msgid "Delete"
+msgstr ""
+
+#: ../playlist/add_playlist.php:867
+msgid "Update"
+msgstr ""
+
+#: ../playlist/add_playlist.php:881
+msgid "Please Add Songs No Songs Listed Yet"
+msgstr ""

@@ -1,0 +1,366 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "HTML5 jQuery Audio Player"
+msgstr ""
+
+#. Short description.
+msgid "Finally, a trendy looking audio player plugin. Works on all modern browsers including iPhone/iPad."
+msgstr ""
+
+#. Screenshot description.
+msgid "An example of the inserted player"
+msgstr ""
+
+#. Screenshot description.
+msgid "The display settings screen in WP-Admin"
+msgstr ""
+
+#. Screenshot description.
+msgid "The add songs screen in WP-Admin"
+msgstr ""
+
+#. Found in description header.
+msgid "Key Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Demo"
+msgstr ""
+
+#. Found in description header.
+msgid "Pro vs Lite Version"
+msgstr ""
+
+#. Found in description header.
+msgid "Credits"
+msgstr ""
+
+#. Found in description list item.
+msgid "Uses mp3 and ogg file formats"
+msgstr ""
+
+#. Found in description list item.
+msgid "Attractive and customisable design"
+msgstr ""
+
+#. Found in description list item.
+msgid "Works in all major browsers - IE9+, Safari, Opera, Firefox, Chrome"
+msgstr ""
+
+#. Found in description list item.
+msgid "Works on mobile devices including iPhone/iPad"
+msgstr ""
+
+#. Found in description list item.
+msgid "Sell your music easily by integrating with Easy Digital Downloads - <a href=\"http://enigmaplugins.com/selling-your-music/\">tutorial here</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Autoplay on/off option"
+msgstr ""
+
+#. Found in description list item.
+msgid "User star ratings"
+msgstr ""
+
+#. Found in description list item, installation list item.
+msgid "Add the player to any post/page using shortcode <code>[hmp_player]</code>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Mulitple Playlists � create as many playlists as you like and embed any number of players on different pages of your site"
+msgstr ""
+
+#. Found in description list item.
+msgid "Drag n Drop playlist manager so you can reorder tracks"
+msgstr ""
+
+#. Found in description list item.
+msgid "Fully Responsive � resizes and adjust layout/design for responsive websites"
+msgstr ""
+
+#. Found in description list item.
+msgid "On/off option for ratings, artwork, artist field, auto-repeat, and cover art"
+msgstr ""
+
+#. Found in description list item.
+msgid "Widget support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Embed full playlist or individual tracks with shortcodes"
+msgstr ""
+
+#. Found in description list item.
+msgid "Works in all modern browsers - IE9+, Safari, Opera, Firefox, Chrome"
+msgstr ""
+
+#. Found in description list item.
+msgid "Can enable Buy or Download tracks buttons (x3)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Integrates with Easy Digital Downloads plugin for selling your music"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This trendy looking music player lets you add a single audio track or a full playlist to your WordPress site using shortcode. You can customise the colours of the player, and also display ratings, album cover art, and buy/download link if needed. This audio player is different from others on offer because it works on all major browsers, both PC and Mac, and on mobile devices including iPhone/iPad. Plus it looks really cool!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This is Lite (free) version of the plugin. <a href=\"http://enigmaplugins.com/plugins/html5-jquery-audio-pro/\">Get Pro Version</a> if you need the following advanced features:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Please note that Pro version will not work on Windows Server environment."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This is a WordPress version of the player created by Saleem over at <a href=\"http://www.codebasehero.com/2011/06/html-music-player/\">Codebase Hero</a> with thanks also to <a href=\"http://www.premiumpixels.com/freebies/compact-music-player-psd/\">Orman Clark</a> for the original PSD."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the <code>html5-jquery-audio</code> folder to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the HTML5 jQuery Audio Player plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Configure the plugin by going to the <code>HTML5 Audio Player</code> menu that appears in your admin menu"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated text domain for plugin directory's new translations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DB prefix issue fixed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Internationalisation  [New]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updating and Deleting song issue fixed [Bug]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Unknown column 'secure' in 'field list'fixed [Bug]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix - SQL warning message on Manage Songs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Miscellaneous UI enhancements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security patches"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix for album cover artwork in WordPress 3.6"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed drop shadow on text"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major code clean up"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed conflict with NextGen Gallery"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed conflict with Easy Slider Lite"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed conflict with JetPack"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed limit track issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed track order bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Playlist description field removed "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added upload button for add/manage songs screen "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added auto-play on/off option in display settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Integrated a more advanced user rating system - rating is now based on accumulated average user rating rather than it being something the site owner sets in backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor fix in index.php to prevent jQuery conflict"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More fixes for WordPress Core 3.5. Fixed issue with 'add media' button disappearing. Fixed problem where player was preventing some widgets opening."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Implemented fixes so the plugin is now compatible with WordPress Core 3.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed URL truncating plus some other small enhancements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed several small issues. You can now use apostrophe in description field without it breaking the player, and removed character limits on various input fields. Display issue for long playlists also corrected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made a bunch of small improvements and fixes for minor issues. Also adjusted the settings menu structure slightly to correlate better with PRO version of the plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a problem with the shortcode function - some users were having problems placing the player in a page, this update fixes the issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added jQuery noConflict wrapper and fixed a typo - the playlist was not displaying for some users due to a jQuery conflict, this update fixes the problem."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a filepath bug - some users were unable to update/delete tracks from playlist, this is now fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added sidebar with support forum, donate and wordpress.org links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq header.
+msgid "It doesn't work for me, this plugin sucks!"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I sell my music using this plugin?"
+msgstr ""
+
+#. Found in faq header.
+msgid "jQuery Conflict (It's breaking my site)"
+msgstr ""
+
+#. Found in faq header.
+msgid "I'm having problems adding mp3 files - they won't play."
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I convert my files to mp3 and ogg?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I need ogg? Waaaa!"
+msgstr ""
+
+#. Found in faq header.
+msgid "The songs won't play"
+msgstr ""
+
+#. Found in faq header.
+msgid "It's not working in browser xyz - can you help?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I use it in a widget?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What happened to the description field?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Is there a way to easliy replace the 'Buy' button with 'Download' button?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I use this on a non-WordPress site?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I get support for this plugin?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Actually it does work... and tens of thousands of people use it successfully. If you're having a problem it is highly likely that it is one of the common issues below. Please take the time to read these FAQs and try the steps suggested. If you're still having problems you can get support in the forum. Be nice, and explain your issue properly so I can try to help you. Thank you."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "[Easy Digital Downloads integration tutorial] (http://enigmaplugins.com/selling-your-music/)"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<a href=\"http://www.enigmaweb.com.au/fetchapp-integration-tutorial/\">FetchApp integration tutorial</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The most common problem is a jQuery conflict. In short, if your theme loads jQuery library, then other plugin/s (like this one) also load jQuery then it can cause serious grief on the site and things start breaking. The solution is for all plugin developers and WordPress theme creators to use the copy of jQuery which is included in the WordPress core or load it from Google AJAX libraries, and to consider also using the noConflict jQuery mode (this plugin does all that). If you're having jQuery conflict problems on your site then the most likely culprit it your theme. <a href=\"http://digwp.com/2009/06/including-jquery-in-wordpress-the-right-way/\">Read this article</a> by Chris Coyier which explains the issue in more detail and outlines how you can fix it. You might also like to check out suggestions from <a href=\"http://www.ericmmartin.com/5-tips-for-using-jquery-with-wordpress/\">Eric Martin</a> on the topic."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The plugin supports mp3 and ogg files. You need to upload both an mp3 and ogg version of each track in the playlist. Please also check your files are encoded correctly, and confirm that your file paths are correct. jPlayer sometimes has problems with relative urls so make sure you're using the absolute paths."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "There are heaps of free conversion tools available - run a search. Personally, I use <a href=\"http://www.goldwave.com/\">Goldwave.</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yeah you really do. Having both the ogg and mp3 is what enables this plugin to work on all the different browsers and devices. You can use a converter to make an ogg copy of your files fast and free and you can batch process with most tools so please don't complain about needing ogg. <a href=\"http://enigmaplugins.com/mp3-and-ogg/\">More information here in the documentation.</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Are you in firefox? If the play button flashes then goes back to pause then this is likely a Mime type issue. Particularly affects Firefox. It can be solved by adding the following lines to your htaccess file:"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The plugin works on IE9+, Safari, Opera, Firefox and Chrome, on both PC &amp; Mac, and on mobile devices including iPhone/iPad and Android phones. If it's not working for you, try adding the Mime types above to your htaccess file. If it's still not working, the most common problem is jQuery conflict with your theme or another plugin - see above. Note that it has limited functionality in earlier version of IE where the html5  tag is not supported. <a href=\"http://enigmaplugins.com/mp3-and-ogg/\">More information here in the documentation.</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Pro Version has a nice widget function - go to Appearance &gt; Widgets and if the plugin is activated you will see a custom widget which you can drag into your sidebar. Be aware that you can't run two instances of the player on the same page, so if you're using it in the sidebar make sure you don't also add a different player to a page where the sidebar shows."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Description field has been deprecated as of version 2.2  This is because it was causing too many support problems (it broke whenever unusual characters/symbols were used) and I could find no viable workaround."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes! Set the buy text option to Download, leave currency field &amp; song price field blank, and set the buy link option on each song to the url of the mp3 or the script that initiates the download."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yep, sure can. This plugin is just a WordPress version of HTML5 Music Player by Saleem over at <a href=\"http://www.codebasehero.com/2011/06/html-music-player/\">Codebase Hero</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you've tried all the obvious stuff and it's still not working please request support via the forum. Remember to include a link to your site where the player is embedded, and a full description of the issue plus the steps you've already taken to try to solve it."
+msgstr ""

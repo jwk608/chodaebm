@@ -1,0 +1,1848 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9d1b332d90c0dc85c0ad82f99d739827",
+      "css": "puzzle",
+      "code": 59627,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M684.4 600.6C601.1 600.6 533.5 668.1 533.5 751.5 533.5 834.8 601.1 902.3 684.4 902.3 767.7 902.3 835.3 834.8 835.3 751.5 835.3 668.1 767.7 600.6 684.4 600.6ZM768.2 768.2H701.2V835.3H667.6V768.2H600.6V734.7H667.6V667.6H701.2V734.7H768.2V768.2ZM768.2 298.8V550.3C747.3 541.6 724.7 536.2 701.2 534.4V365.9H562.1C529.4 365.9 503.9 351.2 493.7 326.6 483.9 302.8 491.1 274.7 512.5 253.3 556.1 211.6 516.1 164.7 472.8 164.7 428.8 164.7 389.6 211.6 433.1 253.3 454.6 274.7 461.8 302.8 452 326.6 441.8 351.2 416.2 365.9 383.6 365.9H231.8V517.7C231.8 517.7 231.8 517.8 231.8 517.8 252.8 501.6 283.7 481.9 323.8 481.9 376.5 481.9 432.9 532.2 432.9 606.9 432.9 681.8 376.5 732 323.8 732 283.6 732 252.8 712.3 231.8 696.1 231.8 696.1 231.8 696.1 231.8 696.2V835.3H483.2C493.7 860.4 508.8 883 527.4 902.3H164.7V696.2C164.7 663.6 179.4 638 204 627.8 227.8 618 255.9 625.2 277.3 646.6 319.1 690.2 365.9 650.2 365.9 606.9 365.9 562.9 319.1 523.7 277.3 567.3 255.9 588.7 227.8 595.9 204 586.1 179.4 575.9 164.7 550.4 164.7 517.7V298.8H383.6C383.6 298.8 383.7 298.8 383.7 298.8 367.5 277.8 347.8 246.9 347.8 206.8 347.8 154.1 398 97.7 472.8 97.7 547.6 97.7 597.9 154.1 597.9 206.8 597.9 247 578.2 277.8 561.9 298.8 562 298.8 562 298.8 562.1 298.8H768.2Z",
+        "width": 1000
+      },
+      "search": [
+        "iconmonstr-puzzle-6-icon"
+      ]
+    },
+    {
+      "uid": "3fd09d1fb1f461bfd67d96a7b5eb5fd7",
+      "css": "fire",
+      "code": 59628,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M689.9 557C689.9 541.8 755.2 339.6 628.1 278.5 481.8 208.1 441.2 151.9 442.5 61.8 442.4 65.5 354 208.1 411.5 278.5 501 387.5 463.2 471.9 411.5 464.2 324.8 451.2 335.3 338 349.7 309.5 304.3 304.6 251.8 332.9 225.8 371.3 147.8 487.3 317 598.3 256.8 680.8 211 743.6 132.8 619.9 133.1 618.9 40.2 1103.8 714.9 1116.1 752 711.7 763 590.5 872.2 524.5 875.7 526.1 759.4 472.4 689.9 560.8 689.9 557ZM473.4 897.3C311.3 903.4 327.9 781.7 349.7 742.7 377.3 692.8 447.3 683 411.6 618.8 412 619.8 487.5 631.2 535.3 680.7 608.7 756.5 600.4 892.7 473.4 897.3ZM566.3 154.7C547.4 134.4 535.3 110 535.3 92.8 535.3 60.6 561.6 29.7 597.2 0 600.8 25.8 581.8 64.5 597.2 92.8 609.2 113.8 628.2 137.5 628.2 154.7 628.2 177.7 619.6 198.7 597.2 216.6 593.8 208 587.9 179.7 566.3 154.7Z",
+        "width": 1000
+      },
+      "search": [
+        "fire19"
+      ]
+    },
+    {
+      "uid": "cd83cb920530d7d966a262f47a591a3c",
+      "css": "food",
+      "code": 59629,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M940.2 894.8C932.9 870.1 815.2 429.2 799.2 369.2 783.2 309.3 741.5 293.2 694.5 293.2 678.3 293.2 615.8 293.2 541.3 293.2V237.8C826.2 211.3 902.2 0 902.2 0H78.9C78.9 0 142.6 223.2 447.3 239.1V293.2C378 293.2 320.9 293.2 305.5 293.2 258.5 293.2 216.8 309.2 200.8 369.2 184.8 429.2 67.1 870.1 59.8 894.8 50.8 925.7 53.6 966.1 116.6 966.1 123.5 966.1 139.3 966.1 161.5 966.1V1000H830.7V966.2C856.9 966.2 875.7 966.2 883.4 966.2 946.4 966.2 949.2 925.8 940.2 894.8ZM500 350.5C654.3 350.5 779.3 475.4 779.3 629.7S654.3 908.9 500 908.9C345.8 908.9 220.8 784 220.8 629.7S345.8 350.5 500 350.5ZM339.7 506.8L311 486.4 302.6 498.3 330.8 518.3C333.4 514.3 336.7 510.7 339.7 506.8ZM418.5 444.2L402.9 412.7 389.8 419.2 405.7 451.2C410 448.9 414.1 446.3 418.5 444.2ZM297.2 629.7C297.2 628.1 297.7 626.6 297.8 624.9H262.2V639.5H298.2C298.1 636.2 297.2 633.1 297.2 629.7ZM719.1 522.8L712.2 510.1 675.6 530.1C677.9 534.2 680.4 538.5 682.6 542.8L719.1 522.8ZM634.3 428.9L621.8 421.4 601.6 455.1C605.8 457.6 610.3 459.6 614.3 462.3L634.3 428.9ZM510.9 428V390.6H496.3V427.3C497.6 427.3 498.8 426.9 500 426.9 503.8 426.9 507.2 427.8 510.9 428ZM617.5 845.3L598.1 806.1C593.9 808.5 589.7 811.1 585.3 813.1L604.4 851.8 617.5 845.3ZM704.8 766.2L669.3 741C666.6 745.1 663.4 748.7 660.4 752.5L696.3 778 704.8 766.2ZM702.8 629.7C702.8 633 702 636.2 701.9 639.5H745.2V624.9H702.4C702.4 626.6 702.8 628.1 702.8 629.7ZM496.3 832.1V873.7H510.9V831.4C507.2 831.5 503.8 832.5 500 832.5 498.8 832.5 497.6 832.1 496.3 832.1ZM321.2 723.3L288.1 741.3 295.1 754.1 328.1 736.1C325.6 732 323.4 727.7 321.2 723.3ZM406.2 808.4C401.8 806.2 397.5 804 393.3 801.5L373 835.3 385.5 842.8 406.2 808.4ZM414.5 771.7L425.7 778 496 660.5C498.8 661.1 501.5 662.2 504.5 662.2 529.2 662.2 549.2 642.2 549.2 617.6 549.2 593 529.2 573 504.5 573 479.9 573 459.9 593 459.9 617.6 459.9 631.7 466.9 643.7 477.1 652L414.5 771.7ZM504.6 604.9C511.7 604.9 517.4 610.6 517.4 617.6 517.4 624.7 511.7 630.4 504.6 630.4 497.5 630.4 491.8 624.7 491.8 617.6 491.8 610.6 497.5 604.9 504.6 604.9Z",
+        "width": 1000
+      },
+      "search": [
+        "food27"
+      ]
+    },
+    {
+      "uid": "b985a8172425ca9400b140e72bddd64a",
+      "css": "sweet",
+      "code": 59630,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M999.6 227L954.1 211.3 954.5 172.4C954.5 172.4 854.1 133.8 726.6 133.8 619.5 133.8 529.1 161.2 500.1 171.1 471.2 161.2 380.7 133.8 273.6 133.8 146.1 133.8 50.2 171.7 50.2 171.7L50.6 215 0 228.5 0.2 866.2 34.3 852C35.4 851.5 149.5 804.1 254.9 804.1 345.1 804.1 450.7 830.7 482.5 839.3L503.7 845.3 523.6 839C552 830.3 646 804.1 734.3 804.1 838.9 804.1 965.5 851.8 966.7 852.3L1000 864.9 999.6 227ZM476.7 776.9C431.4 765.1 345.1 745.6 267 745.6 190.8 745.6 113.1 764.1 70.6 776.1V218.4C111.8 207.4 182.7 192.3 261.9 192.3 358.9 192.3 444.1 215.1 476.7 225.1V776.9ZM929.7 776.9C884.4 765.1 798.1 745.6 720 745.6 647 745.6 572.9 762.5 529.4 774.5V225C561.6 215 645.3 192.3 741.3 192.3 819.2 192.3 888.9 207.3 929.6 218.3V776.9H929.7ZM603.3 288.2C604 288.1 675.5 275.1 747.9 275.1 820 275.1 884.8 288 885.4 288.2L891 269.3C888.2 268.7 822.9 255.6 747.9 255.6 672.9 255.6 601.3 268.7 598.3 269.2L603.3 288.2ZM885.4 341.4L891 322.5C888.2 321.9 822.9 308.8 747.9 308.8 672.9 308.8 601.3 321.9 598.3 322.5L603.3 341.5C604 341.4 675.4 328.3 747.9 328.3 819.9 328.3 884.7 341.3 885.4 341.4ZM603.3 392.3C604 392.1 675.5 379.1 747.9 379.1 819.9 379.1 884.7 392.1 885.4 392.2L891 373.3C888.2 372.7 822.9 359.6 747.9 359.6 672.9 359.6 601.2 372.7 598.2 373.3L603.3 392.3ZM747.8 432.4C819.9 432.4 884.7 445.3 885.3 445.4L890.9 426.5C888.2 425.9 822.9 412.9 747.8 412.9 672.8 412.9 601.2 425.9 598.2 426.5L603.3 445.5C604 445.4 675.4 432.4 747.8 432.4ZM747.8 483.8C819.9 483.8 884.7 496.8 885.3 496.9L890.9 478C888.2 477.5 822.9 464.4 747.8 464.4 672.9 464.4 601.2 477.4 598.2 478L603.3 497C604 496.9 675.5 483.8 747.8 483.8ZM747.8 517.5C672.9 517.5 601.3 530.6 598.2 531.2L603.3 550.2C604 550.1 675.4 537 747.8 537 820 537 884.7 550 885.3 550.2L890.9 531.2C888.2 530.7 822.9 517.5 747.8 517.5ZM598.3 581.9L603.3 600.9C604 600.8 675.4 587.7 747.9 587.7 819.9 587.7 884.7 600.7 885.4 600.9L891 581.9C888.2 581.4 822.9 568.3 747.9 568.3 672.9 568.2 601.3 581.3 598.3 581.9ZM598.3 632.4L603.3 651.5C604 651.3 675.4 638.3 747.9 638.3 820 638.3 884.8 651.3 885.4 651.4L891 632.5C888.2 631.9 822.9 618.8 747.8 618.8 672.9 618.8 601.3 631.9 598.3 632.4ZM598.3 686.4L603.3 705.4C604 705.2 675.6 692.2 747.9 692.2 820 692.2 884.8 705.2 885.4 705.3L891 686.4C888.2 685.8 822.9 672.7 747.8 672.7 672.9 672.7 601.3 685.8 598.3 686.4ZM257.1 355.6C252.6 355.4 248.1 355.1 243.7 354.9 227.8 354.3 214.5 367.7 212.8 382.9 201.5 385.9 191 390.5 182.2 397.9 174.2 404.7 170.9 415.1 171.6 425.3 145.3 432.8 127.4 447.4 133.9 475H121.8L193.2 627.5H370.2L441.4 475H430.2C428.7 463.1 421.6 452.3 408.1 449.6 408.5 448.7 409 447.8 409.4 446.8 418.7 420.8 399.3 407.7 378.1 401.8 378.9 392.9 376.3 383.6 369.9 375.7 364.9 369.6 357.2 365.9 348.5 363.6 346.9 355.7 342.7 348.7 334.5 344.5 330.5 342.4 326.4 340.3 322.4 338.3 320.7 337.3 318.9 336.4 317.2 335.4 310.4 307.3 264.5 299.4 257.2 333.4 255.3 341.9 255.5 349.2 257.1 355.6ZM207.2 618.1L159.9 489.9 170.7 489.8 218.2 617.4 207.2 618.1ZM236.3 617.5L212 490.6 221.9 490.4 247.2 617.4H236.3V617.5ZM391.6 489.8L402.1 490.4 356 618.2 345.2 617.5 391.6 489.8ZM346.1 489.6L356.2 490.4 329.9 618 320.2 618.3 346.1 489.6ZM300.3 490.4L310.1 491 302.9 617.4H293.6L300.3 490.4ZM267.3 489.6L275.8 617.1 266 617.7 257.5 490.2 267.3 489.6Z",
+        "width": 1000
+      },
+      "search": [
+        "sweet8"
+      ]
+    },
+    {
+      "uid": "40c1d0c80da7cde621c9700182b0ca0f",
+      "css": "chef",
+      "code": 59631,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M658.6 658.2C618.9 699.5 566.3 724.9 508.5 724.9 449.1 724.9 395.2 698.2 355.2 655 202.1 704.3 174.9 825.2 174.9 870.9 174.9 928.8 174.9 1000 174.9 1000H825.1C825.1 1000 825.1 964.7 825.1 904 825.1 856.1 808.1 715.5 658.6 658.2ZM337.6 294V447.8C337.6 457.8 344.1 466 353.1 469 353.1 469.6 353 470 353 470.5 353 550.8 395.4 619.1 454.7 645.4 455.2 645.6 455.7 645.8 456.1 646.1 460.8 648 465.6 649.8 470.5 651.3 471.5 651.6 472.5 651.9 473.5 652.2 478 653.4 482.6 654.4 487.2 655.1 488.4 655.4 489.7 655.7 491 655.8 496.7 656.6 502.5 657.1 508.5 657.1 514.4 657.1 520.1 656.6 525.8 655.9 527 655.7 528.2 655.4 529.3 655.2 534 654.4 538.6 653.5 543.2 652.3 544 652 544.8 651.7 545.7 651.5 550.7 650 555.5 648.3 560.3 646.2 560.6 646.1 560.9 646 561.2 645.8 621.1 619.9 663.9 551.3 663.9 470.5 663.9 470.3 663.9 470.1 663.9 469.9 674.9 468.3 683.5 459.2 683.5 447.8V282.3C710.9 268.5 734 249.6 747.8 223.7 776.1 170.4 778.3 118.8 754 78.3 729.8 38 682.5 14.9 624.2 14.9 582.5 14.9 545.2 33.2 514.6 56.4 487.3 26.1 434.6-1.4 378.3 0.1 341.9 1 290.4 14.5 251.1 73.3 230.9 103.6 224.7 135.7 232.6 168.6 247.8 230.7 311 276.9 337.6 294ZM288.9 98.5C311.7 64.3 342.2 46.4 379.4 45.5 419.9 44.5 460.8 64.8 480.5 86.4 449.5 117.8 430.8 148.1 429.2 150.7 422.7 161.4 426.1 175.4 436.9 181.9 447.6 188.4 461.5 185 468.1 174.3 468.8 173.1 538.6 60.4 624.1 60.4 666.1 60.4 699.2 75.4 715 101.7 730.8 127.9 728.1 163.6 707.6 202.3 670 273.1 509.3 276 450.5 271.1 438.1 270 427 279.4 426.1 291.9 425 304.4 434.3 315.4 446.8 316.4 449.3 316.6 466.4 318 491.5 318 529.8 318 586.5 314.8 638.1 299.8V425.1H383.1V281.2C383.1 272.9 378.6 265.3 371.3 261.3 370.5 260.9 290.9 215.9 276.8 157.7 271.9 137.5 275.8 118.1 288.9 98.5Z",
+        "width": 1000
+      },
+      "search": [
+        "chef20"
+      ]
+    },
+    {
+      "uid": "72109d2fb3088d0e66ea6a9204297651",
+      "css": "spin1",
+      "code": 59438,
+      "src": "fontelico"
+    },
+    {
+      "uid": "f0c301ac841dafc38d8eb1b933fc73e5",
+      "css": "spin2",
+      "code": 59439,
+      "src": "fontelico"
+    },
+    {
+      "uid": "2a6740fc2f9d0edea54205963f662594",
+      "css": "spin3",
+      "code": 59437,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9bd60140934a1eb9236fd7a8ab1ff6ba",
+      "css": "spin4",
+      "code": 59440,
+      "src": "fontelico"
+    },
+    {
+      "uid": "5d2d07f112b8de19f2c0dbfec3e42c05",
+      "css": "spin5",
+      "code": 59441,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9bc2902722abb366a213a052ade360bc",
+      "css": "spin6",
+      "code": 59442,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "code": 59399,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail-empty",
+      "code": 59416,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail",
+      "code": 59417,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d73eceadda1f594cec0536087539afbf",
+      "css": "heart",
+      "code": 59562,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f3dc2d6d8fe9cf9ebff84dc260888cdf",
+      "css": "heart-empty",
+      "code": 59560,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "474656633f79ea2f1dad59ff63f6bf07",
+      "css": "star",
+      "code": 59424,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d17030afaecc1e1c22349b99f3c4992a",
+      "css": "star-empty",
+      "code": 59592,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "31972e4e9d080eaa796290349ae6c1fd",
+      "css": "users-group",
+      "code": 59420,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ca2d64f8a3ea7cbf6af45898b2dcf35e",
+      "css": "male",
+      "code": 59421,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9bf7e14698cccdca37a6f1a02cf7d79e",
+      "css": "female",
+      "code": 59422,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c2314ed1d2314b89f9285c53bcbf2548",
+      "css": "child",
+      "code": 59423,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "381da2c2f7fd51f8de877c044d7f439d",
+      "css": "picture",
+      "code": 59404,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dd492243d64e21dfe16a92452f7861cb",
+      "css": "th-large",
+      "code": 59612,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b1887b423d2fd15c345e090320c91ca0",
+      "css": "th",
+      "code": 59613,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f805bb95d40c7ef2bc51b3d50d4f2e5c",
+      "css": "th-list",
+      "code": 59614,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c1f1975c885aa9f3dad7810c53b82074",
+      "css": "lock",
+      "code": 59435,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "657ab647f6248a6b57a5b893beaf35a9",
+      "css": "lock-open",
+      "code": 59561,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5b0772e9484a1a11646793a82edd622a",
+      "css": "pin",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9c1376672bb4f1ed616fdd78a23667e9",
+      "css": "comment",
+      "code": 59589,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "31951fbb9820ed0690f675b3d495c8da",
+      "css": "chat-empty",
+      "code": 59590,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cd21cbfb28ad4d903cede582157f65dc",
+      "css": "bell",
+      "code": 59591,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bbfb51903f40597f0b70fd75bc7b5cac",
+      "css": "trash",
+      "code": 59611,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f48ae54adfb27d8ada53d0fd9e34ee10",
+      "css": "trash-empty",
+      "code": 59610,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1b5a5d7b7e3c71437f5a26befdd045ed",
+      "css": "doc",
+      "code": 59599,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5408be43f7c42bccee419c6be53fdef5",
+      "css": "doc-text",
+      "code": 59600,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9daa1fdf0838118518a7e22715e83abc",
+      "css": "file-pdf",
+      "code": 59601,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "310ffd629da85142bc8669f010556f2d",
+      "css": "file-word",
+      "code": 59602,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f761c3bbe16ba2d332914ecb28e7a042",
+      "css": "file-excel",
+      "code": 59603,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "edcd4022de8d8df266ef7c42d2658ca5",
+      "css": "file-powerpoint",
+      "code": 59604,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3c961c1a8d874815856fc6637dc5a13c",
+      "css": "file-image",
+      "code": 59605,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e80ae555c1413a4ec18b33fb348b4049",
+      "css": "file-archive",
+      "code": 59606,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "81db033e704eb7c586a365559d7c0f36",
+      "css": "file-audio",
+      "code": 59607,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dd69d9aa589ea7bc0a82a3fe67039f4b",
+      "css": "file-video",
+      "code": 59608,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "26613a2e6bc41593c54bead46f8c8ee3",
+      "css": "file-code",
+      "code": 59609,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e99461abfef3923546da8d745372c995",
+      "css": "cog",
+      "code": 59430,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "98687378abd1faf8f6af97c254eb6cd6",
+      "css": "cogs",
+      "code": 59431,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5bb103cd29de77e0e06a52638527b575",
+      "css": "wrench",
+      "code": 59433,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "21b42d3c3e6be44c3cc3d73042faa216",
+      "css": "sliders",
+      "code": 59434,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f3f90c8c89795da30f7444634476ea4f",
+      "css": "left",
+      "code": 59447,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7bf14281af5633a597f85b061ef1cfb9",
+      "css": "right",
+      "code": 59446,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5de9370846a26947e03f63142a3f1c07",
+      "css": "up",
+      "code": 59445,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e4dde1992f787163e2e2b534b8c8067d",
+      "css": "down",
+      "code": 59432,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "745f12abe1472d14f8f658de7e5aba66",
+      "css": "double-left",
+      "code": 59567,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fdfbd1fcbd4cb229716a810801a5f207",
+      "css": "double-right",
+      "code": 59568,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "63b3012c8cbe3654ba5bea598235aa3a",
+      "css": "double-up",
+      "code": 59569,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dfec4ffa849d8594c2e4b86f6320b8a6",
+      "css": "double-down",
+      "code": 59570,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "757afacc32d82967975cbb3b45cfb41b",
+      "css": "desktop",
+      "code": 59429,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "500fc1f109021e4b1de4deda2f7ed399",
+      "css": "laptop",
+      "code": 59428,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f001fc3d4daa7da078e8c971e4f36977",
+      "css": "tablet",
+      "code": 59427,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0357f7abbc0babf43509669f332e41e6",
+      "css": "mobile",
+      "code": 59426,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "197375a3cea8cb90b02d06e4ddf1433d",
+      "css": "globe",
+      "code": 59425,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dd6c6b221a1088ff8a9b9cd32d0b3dd5",
+      "css": "checkbox",
+      "code": 59413,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4b900d04e8ab8c82f080c1cfbac5772c",
+      "css": "checkbox-empty",
+      "code": 59414,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "130380e481a7defc690dfb24123a1f0c",
+      "css": "circle",
+      "code": 59412,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "422e07e5afb80258a9c4ed1706498f8a",
+      "css": "circle-empty",
+      "code": 59410,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "81bb68665e8e595505272a746db07c7a",
+      "css": "circle-dot",
+      "code": 59411,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0cd2582b8c93719d066ee0affd02ac78",
+      "css": "sort-asc",
+      "code": 59632,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "27b13eff5eb0ca15e01a6e65ffe6eeec",
+      "css": "sort-desc",
+      "code": 59633,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "aa58e30c7196b1378a6ca78c025cc3b5",
+      "css": "behance",
+      "code": 59496,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "169f51b7e405de8c03cf85a6e8c740ab",
+      "css": "bitbucket",
+      "code": 59497,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "66faf6c4e3b0e4e33f06171e30253e26",
+      "css": "cc",
+      "code": 59498,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "76675011e906d50af404186b489fc76f",
+      "css": "codeopen",
+      "code": 59499,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "01c946ce2ed5500e0a918f2b3a7d1923",
+      "css": "css3",
+      "code": 59500,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6975c4c656d41a0283d9c52516bf38ed",
+      "css": "delicious",
+      "code": 59501,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "54fad985c676a007c79c346ebaec29d6",
+      "css": "deviantart",
+      "code": 59504,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ef0e69c3275e8c845aca69a79900092d",
+      "css": "digg",
+      "code": 59502,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "199c44bca402ec5a6351f75ba5228375",
+      "css": "dribbble",
+      "code": 59503,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9e34a047fee949eae9b6e613d790d6cf",
+      "css": "dropbox",
+      "code": 59505,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d16ba9078d51e79b5ad6af0235adbd54",
+      "css": "drupal",
+      "code": 59506,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+      "css": "facebook",
+      "code": 59507,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "649004fb1ed50395a33c3780236ba8aa",
+      "css": "flickr",
+      "code": 59508,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a32d12927584e3c8a3dff23eb816d360",
+      "css": "foursquare",
+      "code": 59509,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e7cb72a17f3b21e3576f35c3f0a7639b",
+      "css": "git",
+      "code": 59510,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5e0a374728ffa8d0ae1f331a8f648231",
+      "css": "github",
+      "code": 59511,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5b4b48418155c35459f12171f97c82ff",
+      "css": "gittip",
+      "code": 59512,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f06fe7ff18d1c591bc1183cb3ab105e9",
+      "css": "google",
+      "code": 59513,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b8d0c7d76e87b94882329a88e8e43d3d",
+      "css": "gplus",
+      "code": 59514,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "50fbbd926b2a64fcaf384788056c0e43",
+      "css": "gwallet",
+      "code": 59515,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "237ee28b7e826b75a5b6f51ee3e2bfc1",
+      "css": "hacker-news",
+      "code": 59516,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ff44f01f60948555026580eedf1e39bb",
+      "css": "html5",
+      "code": 59517,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagramm",
+      "code": 59518,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9b9e5f3ee9e3525808ed2afc83e8bb0b",
+      "css": "ioxhost",
+      "code": 59519,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8cd1b9899389237def726c08587a649f",
+      "css": "joomla",
+      "code": 59520,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "486f6d0a05aef9e65eeb07be26793bd3",
+      "css": "jsfiddle",
+      "code": 59521,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5dcf6620378353c5b0089b12d961fedf",
+      "css": "lastfm",
+      "code": 59522,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "47a35af762c8e06f3d152750134c8750",
+      "css": "linux",
+      "code": 59523,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin",
+      "code": 59524,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fcdc6d7a89771d2dbd38eb719aafb2ff",
+      "css": "maxcdn",
+      "code": 59525,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9b2e17ef8fc33eb2a1c8b5953d51c595",
+      "css": "meanpath",
+      "code": 59526,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "da8a58b1deff73d1ba89ba1172ca4bcc",
+      "css": "openid",
+      "code": 59527,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bbf50a560f95a4cce5209d47e71cbc30",
+      "css": "pagelines",
+      "code": 59528,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1d2b426ab6db81a58547ba13d8701ad8",
+      "css": "paypal",
+      "code": 59529,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "da851b7c1f84ee83f93b29ae613558dc",
+      "css": "pinterest-circled",
+      "code": 59559,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "657ff9fe5df74f1993937aa4b19cf909",
+      "css": "qq",
+      "code": 59530,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9121e3eb89863f67c8bda378eea01a93",
+      "css": "reddit",
+      "code": 59531,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "cfa8a2588cab42a6ff7ba81eb4fec21b",
+      "css": "renren",
+      "code": 59532,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "58a16628dcbd6456c61218f3d27591be",
+      "css": "skype",
+      "code": 59533,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "87276033a77d0b9b890125c3639e4f87",
+      "css": "slack",
+      "code": 59534,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "be13b8c668eb18839d5d53107725f1de",
+      "css": "slideshare",
+      "code": 59535,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "dff942d95eb1b3f1be140e622d0a7c74",
+      "css": "soundcloud",
+      "code": 59536,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fb4794d89b77ab712ad56c0dc4c76c6b",
+      "css": "spotify",
+      "code": 59537,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b6d6b3561d705330c7ad2155e8ee94ba",
+      "css": "stackexchange",
+      "code": 59538,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e1597911f34fea0a188ae51fe4a2d9a9",
+      "css": "stackoverflow",
+      "code": 59539,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2ec1790207a8ba67a7192c6af1eafec4",
+      "css": "steam",
+      "code": 59540,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3958d12510001a1a172f088893506c27",
+      "css": "stumbleupon",
+      "code": 59541,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d9b33592f56a02af69a36aa64ed452fc",
+      "css": "tencent-weibo",
+      "code": 59542,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b846892636bd74112998bb159bdddf27",
+      "css": "trello",
+      "code": 59543,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "43fcf807461234935e65261328e1dff6",
+      "css": "tumblr",
+      "code": 59544,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e70df9acbabaebfbbf9c1dbc3e52ab13",
+      "css": "twitch",
+      "code": 59545,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 59546,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "676cf66256441f09e4934ae6378b3e2d",
+      "css": "vine",
+      "code": 59547,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f3d95e13eb43f3f6b8efe1eb424a1e3b",
+      "css": "vkontakte",
+      "code": 59548,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "34cb6ce62bf3f1efd59e2f5eb0d79f82",
+      "css": "wechat",
+      "code": 59549,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9854b94688e31450fc76aae4c2a45dff",
+      "css": "weibo",
+      "code": 59550,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8aff323697468c4a63993cde00386ec6",
+      "css": "windows",
+      "code": 59551,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "39f52f80e1864df5e5022d7f0f5ff86f",
+      "css": "wordpress",
+      "code": 59552,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "11ebb30e17efcd988a228ade5d3e8c74",
+      "css": "xing",
+      "code": 59553,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7a48de2ac7ca47c78d6c279996ee6250",
+      "css": "yelp",
+      "code": 59554,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a9862b9d5197886c1ad693ecd7120b31",
+      "css": "youtube",
+      "code": 59555,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ba071f2b01f1fed40d8e2366434b6f42",
+      "css": "yahoo",
+      "code": 59556,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2c2ca8a96b31781c9c8056d05c0a8980",
+      "css": "blank",
+      "code": 59558,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5e0191587645a9f5d514ed4b0a0e008a",
+      "css": "lemon",
+      "code": 59557,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "39e2e6682c28e1e3b5f49825a19717c4",
+      "css": "note",
+      "code": 59595,
+      "src": "entypo"
+    },
+    {
+      "uid": "fda731b5a4026685e1a9c7e64228e2b2",
+      "css": "note2",
+      "code": 59597,
+      "src": "entypo"
+    },
+    {
+      "uid": "bbd66ef66bb8fa9edde54d9a90b89150",
+      "css": "user",
+      "code": 59587,
+      "src": "entypo"
+    },
+    {
+      "uid": "ecf8edb95c3f45eb433b4cce7ba9f740",
+      "css": "users",
+      "code": 59586,
+      "src": "entypo"
+    },
+    {
+      "uid": "6274e0601f2feef7eced89146e708de0",
+      "css": "user-add",
+      "code": 59588,
+      "src": "entypo"
+    },
+    {
+      "uid": "6341ebcbe1ed1f6777c1b9527ead368e",
+      "css": "video",
+      "code": 59585,
+      "src": "entypo"
+    },
+    {
+      "uid": "3def559c3c39b8500882e02892b7daa8",
+      "css": "pictures",
+      "code": 59584,
+      "src": "entypo"
+    },
+    {
+      "uid": "85017ab6ca074831a8de771b40e9640c",
+      "css": "camera",
+      "code": 59583,
+      "src": "entypo"
+    },
+    {
+      "uid": "2cfb3f2b46b34a1790aec0aa846297b6",
+      "css": "menu",
+      "code": 59578,
+      "src": "entypo"
+    },
+    {
+      "uid": "14017aae737730faeda4a6fd8fb3a5f0",
+      "css": "check",
+      "code": 59563,
+      "src": "entypo"
+    },
+    {
+      "uid": "c709da589c923ba3c2ad48d9fc563e93",
+      "css": "cancel",
+      "code": 59564,
+      "src": "entypo"
+    },
+    {
+      "uid": "70370693ada58ef0a60fa0984fe8d52a",
+      "css": "plus",
+      "code": 59565,
+      "src": "entypo"
+    },
+    {
+      "uid": "1256e3054823e304d7e452a589cf8bb8",
+      "css": "minus",
+      "code": 59566,
+      "src": "entypo"
+    },
+    {
+      "uid": "3a230e539a4f3b904debd04c6c155034",
+      "css": "help",
+      "code": 59571,
+      "src": "entypo"
+    },
+    {
+      "uid": "63b86fedd4ee9ad2105f54f4888e7088",
+      "css": "info",
+      "code": 59572,
+      "src": "entypo"
+    },
+    {
+      "uid": "513ac180ff85bd275f2b736720cbbf5e",
+      "css": "home",
+      "code": 59582,
+      "src": "entypo"
+    },
+    {
+      "uid": "815503841e980c848f55e0271deacead",
+      "css": "link",
+      "code": 59573,
+      "src": "entypo"
+    },
+    {
+      "uid": "44b9e75612c5fad5505edd70d071651f",
+      "css": "attach",
+      "code": 59575,
+      "src": "entypo"
+    },
+    {
+      "uid": "25fc99a30fecc4021fdcae5fff5ba9ac",
+      "css": "eye",
+      "code": 59576,
+      "src": "entypo"
+    },
+    {
+      "uid": "875ab0f6d417223f6ec76ff7f0a4baed",
+      "css": "tag",
+      "code": 59577,
+      "src": "entypo"
+    },
+    {
+      "uid": "1d2a6c3d9236b88b0f185c7c4530fa52",
+      "css": "flag",
+      "code": 59615,
+      "src": "entypo"
+    },
+    {
+      "uid": "b6fc2f656ef87275889422e19550680a",
+      "css": "reply",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "1a4b54ba5618e5364fc47a3d26c1cf59",
+      "css": "reply-all",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "ec347024a3640deebeeab53fd0d5ad03",
+      "css": "forward",
+      "code": 59396,
+      "src": "entypo"
+    },
+    {
+      "uid": "c3e5dafba1739ef33cc574c7484febf7",
+      "css": "quote",
+      "code": 59574,
+      "src": "entypo"
+    },
+    {
+      "uid": "b6f32db98a3de777f5ae3005191b1831",
+      "css": "code",
+      "code": 59581,
+      "src": "entypo"
+    },
+    {
+      "uid": "c77fd2fd065b5fe16d6f2b41e190b266",
+      "css": "pencil",
+      "code": 59579,
+      "src": "entypo"
+    },
+    {
+      "uid": "bcb868184ff9c35f8aef564f50c0d649",
+      "css": "feather",
+      "code": 59580,
+      "src": "entypo"
+    },
+    {
+      "uid": "28f124a10127a47b9d9472699193d75a",
+      "css": "print",
+      "code": 59397,
+      "src": "entypo"
+    },
+    {
+      "uid": "216891b0093d4dbef19877d5b00d1b16",
+      "css": "retweet",
+      "code": 59623,
+      "src": "entypo"
+    },
+    {
+      "uid": "005a38f6af74b31aeb817fedb09d2175",
+      "css": "keyboard",
+      "code": 59398,
+      "src": "entypo"
+    },
+    {
+      "uid": "97902f87200ce74d181044df02a0458d",
+      "css": "attention",
+      "code": 59616,
+      "src": "entypo"
+    },
+    {
+      "uid": "457c8e2b305e7af74c1be4f07a01ca92",
+      "css": "vcard",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "540b6a4262be769515c79700618b4aea",
+      "css": "address",
+      "code": 59444,
+      "src": "entypo"
+    },
+    {
+      "uid": "a42b598e4298f3319b25a2702a02e7ff",
+      "css": "location",
+      "code": 59443,
+      "src": "entypo"
+    },
+    {
+      "uid": "51727ca007aa35ceabcaffc28934faee",
+      "css": "book-open",
+      "code": 59419,
+      "src": "entypo"
+    },
+    {
+      "uid": "48b79f27e4798f23bafa07b55dbe5b73",
+      "css": "book",
+      "code": 59415,
+      "src": "entypo"
+    },
+    {
+      "uid": "5854855e963044f93b15738a5bb27a29",
+      "css": "phone",
+      "code": 59418,
+      "src": "entypo"
+    },
+    {
+      "uid": "6a7b9d4863bb7e6c79e9457a72d689b6",
+      "css": "tools",
+      "code": 59622,
+      "src": "entypo"
+    },
+    {
+      "uid": "91426c82d94428a33353e495418435e3",
+      "css": "share",
+      "code": 59598,
+      "src": "entypo"
+    },
+    {
+      "uid": "a204f0fa972408eaae5a363c444991b2",
+      "css": "login",
+      "code": 59402,
+      "src": "entypo"
+    },
+    {
+      "uid": "2d76f2c8d13be40694ecadfea7fb83c3",
+      "css": "logout",
+      "code": 59403,
+      "src": "entypo"
+    },
+    {
+      "uid": "8663320a860b00f26e94d3d15c9ba99a",
+      "css": "clock-empty",
+      "code": 59400,
+      "src": "entypo"
+    },
+    {
+      "uid": "7f6916533c0842b6cec699fd773693d3",
+      "css": "hourglass",
+      "code": 59401,
+      "src": "entypo"
+    },
+    {
+      "uid": "465bb89b6f204234e5787c326b4ae54c",
+      "css": "ccw",
+      "code": 59406,
+      "src": "entypo"
+    },
+    {
+      "uid": "bb46b15cb78cc4cc05d3d715d522ac4d",
+      "css": "cw",
+      "code": 59407,
+      "src": "entypo"
+    },
+    {
+      "uid": "3bd18d47a12b8709e9f4fe9ead4f7518",
+      "css": "refresh",
+      "code": 59408,
+      "src": "entypo"
+    },
+    {
+      "uid": "cb13afd4722a849d48056540bb74c47e",
+      "css": "play",
+      "code": 59617,
+      "src": "entypo"
+    },
+    {
+      "uid": "48f2e18872fe74d4579a4c8a1527fc1e",
+      "css": "stop",
+      "code": 59618,
+      "src": "entypo"
+    },
+    {
+      "uid": "d8d378d0ce413f231dfa37592e39c227",
+      "css": "pause",
+      "code": 59619,
+      "src": "entypo"
+    },
+    {
+      "uid": "e188c02f740feff7e2d2bce1950b75fa",
+      "css": "record",
+      "code": 59620,
+      "src": "entypo"
+    },
+    {
+      "uid": "0afbb00323696f49e9c47f4d9fe6390b",
+      "css": "to-end",
+      "code": 59621,
+      "src": "entypo"
+    },
+    {
+      "uid": "ceefe7653a4f6edaacce9e7f196cec5a",
+      "css": "to-start",
+      "code": 59624,
+      "src": "entypo"
+    },
+    {
+      "uid": "18f7c393e3532e40edd45607c9d99988",
+      "css": "fast-forward",
+      "code": 59625,
+      "src": "entypo"
+    },
+    {
+      "uid": "85806fd8ab907f45d34f976354a0df23",
+      "css": "fast-backward",
+      "code": 59626,
+      "src": "entypo"
+    },
+    {
+      "uid": "978aa8facd816df874039e139cb0cdde",
+      "css": "trophy",
+      "code": 59436,
+      "src": "entypo"
+    },
+    {
+      "uid": "d2c6b59d9a239140cb76be0627480855",
+      "css": "dot",
+      "code": 59452,
+      "src": "entypo"
+    },
+    {
+      "uid": "13b11ab72c6ae9c97ee12428e17f3a4e",
+      "css": "dot2",
+      "code": 59593,
+      "src": "entypo"
+    },
+    {
+      "uid": "d10920db2e79c997c5e783279291970c",
+      "css": "dot3",
+      "code": 59594,
+      "src": "entypo"
+    },
+    {
+      "uid": "39c4d0e225a1263a398a47523cb5b9bd",
+      "css": "brush",
+      "code": 59405,
+      "src": "entypo"
+    },
+    {
+      "uid": "vqyhv5kmwcj9zxq28dhq5npykr2k39co",
+      "css": "basket",
+      "code": 59596,
+      "src": "modernpics"
+    },
+    {
+      "uid": "0ohst63cgq1mf1syayvfl8mphms8dbes",
+      "css": "clock",
+      "code": 59409,
+      "src": "modernpics"
+    },
+    {
+      "uid": "572c9ded6a688698dc275b30ff30fefa",
+      "css": "music-light",
+      "code": 59448,
+      "src": "linecons"
+    },
+    {
+      "uid": "9725db89b610135dc76cd8a21afffa83",
+      "css": "search-light",
+      "code": 59449,
+      "src": "linecons"
+    },
+    {
+      "uid": "91bac16b22827347e9ee20477f0b44d2",
+      "css": "mail-light",
+      "code": 59450,
+      "src": "linecons"
+    },
+    {
+      "uid": "b19ac67070bc44e310990016288e449c",
+      "css": "heart-light",
+      "code": 59451,
+      "src": "linecons"
+    },
+    {
+      "uid": "56a0672588820ab1a16363e5d07dd22e",
+      "css": "user-light",
+      "code": 59453,
+      "src": "linecons"
+    },
+    {
+      "uid": "f2a37db235ca1951d60d7ebc9733eb54",
+      "css": "video-light",
+      "code": 59454,
+      "src": "linecons"
+    },
+    {
+      "uid": "b59cc4d390a6df564a055f43c03a6af5",
+      "css": "camera-light",
+      "code": 59455,
+      "src": "linecons"
+    },
+    {
+      "uid": "8573943a49ed6dd8f7819070445baa46",
+      "css": "photo-light",
+      "code": 59456,
+      "src": "linecons"
+    },
+    {
+      "uid": "359f380b2113cb40259269aed843e33d",
+      "css": "attach-light",
+      "code": 59457,
+      "src": "linecons"
+    },
+    {
+      "uid": "47e9e56d2b5abe839bcf1e014d643dea",
+      "css": "lock-light",
+      "code": 59458,
+      "src": "linecons"
+    },
+    {
+      "uid": "a58c05a8a3ba59ababd4860a30892560",
+      "css": "eye-light",
+      "code": 59459,
+      "src": "linecons"
+    },
+    {
+      "uid": "930c31d4c72bd792b5dceb6de607c3e0",
+      "css": "tag-light",
+      "code": 59460,
+      "src": "linecons"
+    },
+    {
+      "uid": "06a2fbb04dffecdb444936073cae9123",
+      "css": "thumbs-up-light",
+      "code": 59461,
+      "src": "linecons"
+    },
+    {
+      "uid": "2aeb4987b469d22fcb8b471b6d2cdfff",
+      "css": "pencil-light",
+      "code": 59462,
+      "src": "linecons"
+    },
+    {
+      "uid": "5b1a68729f60f8be3769238379d1b8e9",
+      "css": "comment-light",
+      "code": 59463,
+      "src": "linecons"
+    },
+    {
+      "uid": "1ea8ad6dbe1ae9a73565ad16cf88de19",
+      "css": "location-light",
+      "code": 59464,
+      "src": "linecons"
+    },
+    {
+      "uid": "c2958cfd1eed4434ab6e4bd6ab337af9",
+      "css": "cup-light",
+      "code": 59465,
+      "src": "linecons"
+    },
+    {
+      "uid": "2cc73cc335f054682c04fe63439c4dcb",
+      "css": "trash-light",
+      "code": 59466,
+      "src": "linecons"
+    },
+    {
+      "uid": "f978da58836f23373882916f05fb70b4",
+      "css": "doc-light",
+      "code": 59467,
+      "src": "linecons"
+    },
+    {
+      "uid": "29f4bce4a60650057c5248e30baa15a6",
+      "css": "note-light",
+      "code": 59494,
+      "src": "linecons"
+    },
+    {
+      "uid": "484b4ad2058d17849f205c4054b6f315",
+      "css": "cog-light",
+      "code": 59492,
+      "src": "linecons"
+    },
+    {
+      "uid": "3e2bd88137dd7ceec98b4bfd8640e5ec",
+      "css": "params-light",
+      "code": 59491,
+      "src": "linecons"
+    },
+    {
+      "uid": "43e4647c57186b5e06874621b5e665be",
+      "css": "calendar-light",
+      "code": 59488,
+      "src": "linecons"
+    },
+    {
+      "uid": "143d93c9abdee0f4a7a2a810acc62b91",
+      "css": "sound-light",
+      "code": 59487,
+      "src": "linecons"
+    },
+    {
+      "uid": "ee22dc89481ea63f27654f59dcace804",
+      "css": "clock-light",
+      "code": 59484,
+      "src": "linecons"
+    },
+    {
+      "uid": "fb3ee9c192c946342e0cdd12f06d7774",
+      "css": "lightbulb-light",
+      "code": 59483,
+      "src": "linecons"
+    },
+    {
+      "uid": "cc5e3696cf6c3ad8c32daaea05355a99",
+      "css": "tv-light",
+      "code": 59480,
+      "src": "linecons"
+    },
+    {
+      "uid": "7697f1734d53461137f05faab3f79cf0",
+      "css": "desktop-light",
+      "code": 59479,
+      "src": "linecons"
+    },
+    {
+      "uid": "6a9f3405aba67bcaee81e7ea38946b27",
+      "css": "mobile-light",
+      "code": 59478,
+      "src": "linecons"
+    },
+    {
+      "uid": "52cde78d270e411ccf22c9ec02910d69",
+      "css": "cd-light",
+      "code": 59477,
+      "src": "linecons"
+    },
+    {
+      "uid": "efaf7e97e8b1aa7c2b52cc29432c96ca",
+      "css": "inbox-light",
+      "code": 59476,
+      "src": "linecons"
+    },
+    {
+      "uid": "1e89103762be72b0720eda0468e62b90",
+      "css": "globe-light",
+      "code": 59475,
+      "src": "linecons"
+    },
+    {
+      "uid": "f6eb7f8aed5dc03a323d5ef2895ae50b",
+      "css": "cloud-light",
+      "code": 59474,
+      "src": "linecons"
+    },
+    {
+      "uid": "6fbd93c0d220507921015a15575009e5",
+      "css": "paper-plane-light",
+      "code": 59473,
+      "src": "linecons"
+    },
+    {
+      "uid": "04309fefab5210bf502d278d65d134cf",
+      "css": "fire-light",
+      "code": 59472,
+      "src": "linecons"
+    },
+    {
+      "uid": "4b7f817f780705a5d267ad59e855da91",
+      "css": "graduation-light",
+      "code": 59471,
+      "src": "linecons"
+    },
+    {
+      "uid": "cdcc1a6693235d1205370c1f47d5e7ad",
+      "css": "megaphone-light",
+      "code": 59470,
+      "src": "linecons"
+    },
+    {
+      "uid": "02ad0683eaa9826f396fa7ccf1f1fb25",
+      "css": "database-light",
+      "code": 59469,
+      "src": "linecons"
+    },
+    {
+      "uid": "75347b319511175da51af3955919dbac",
+      "css": "key-light",
+      "code": 59468,
+      "src": "linecons"
+    },
+    {
+      "uid": "6cc796276697d8a75ae21bb2df4badc9",
+      "css": "beaker-light",
+      "code": 59493,
+      "src": "linecons"
+    },
+    {
+      "uid": "f5053e43ef8be31afb905801449ae26d",
+      "css": "truck-light",
+      "code": 59495,
+      "src": "linecons"
+    },
+    {
+      "uid": "b8e88705f42bd79580be828233c65da0",
+      "css": "money-light",
+      "code": 59490,
+      "src": "linecons"
+    },
+    {
+      "uid": "b08f8c33777cd6b512d9576fc6e7f405",
+      "css": "food-light",
+      "code": 59489,
+      "src": "linecons"
+    },
+    {
+      "uid": "5d27926667773d186de09fda4312af27",
+      "css": "shop-light",
+      "code": 59486,
+      "src": "linecons"
+    },
+    {
+      "uid": "f8e8b267a9b949804f0c9dd7fed8e477",
+      "css": "diamond-light",
+      "code": 59485,
+      "src": "linecons"
+    },
+    {
+      "uid": "862d4faacb164c0412cb3249d43d5d39",
+      "css": "t-shirt-light",
+      "code": 59482,
+      "src": "linecons"
+    },
+    {
+      "uid": "d58dc0a0927a7dea2992f615f2fbf400",
+      "css": "wallet-light",
+      "code": 59481,
+      "src": "linecons"
+    },
+    {
+      "uid": "4208e9580393585bba5faaec220ce41c",
+      "css": "saint",
+      "code": 59634,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M372.5 497.7C384 475.9 390.9 484.4 400.3 453.8L392.4 387H327 272.7L264.8 454.2C274.1 484.8 281.1 476.2 292.6 498 301.6 514.9 312.1 538.2 317.9 539.1H324.6L324.5 538.7H330.3 347.2C353 537.8 363.5 514.6 372.5 497.7ZM252.4 562.7C273.2 583.5 301.9 596.3 333.7 596.3S394.1 583.5 414.9 562.7C417.9 559.7 420.7 556.5 423.4 553.2 421 551.5 418.7 549.6 416.3 547.3 411.7 542.9 410.2 537.1 410.3 531.2 406.6 529.1 402.7 526.2 398.8 522.5 396.9 520.6 395.5 518.5 394.6 516.3V522.5C394.6 544.8 376.4 563 354.1 563H333.7V563.3H311C288.7 563.3 270.5 545.2 270.5 522.9V516.6C269.6 518.9 268.2 521 266.3 522.8 262.4 526.6 258.5 529.5 254.8 531.5 254.9 537.4 253.4 543.2 248.8 547.6 247 549.4 245.2 550.9 243.3 552.3 246.2 555.9 249.2 559.4 252.4 562.7ZM382.1 299.8H455.3L404.3 287 454.7 279.5 414.2 267.6 455.6 260.5 426.7 248.7 450.6 243 426.7 232.6 448.3 227.2 429.2 218.9 443.8 215.2 423 206.2 439.3 202 420.1 193.7 435.5 189.8 420.1 180.5 428.1 177.7C416.3 160.4 400.9 144.7 382.1 130.1V299.8ZM227.7 188.3C227.1 189.4 226.5 190.4 225.9 191.5L238.9 194.8 220.3 202.8C220.2 203 220.2 203.1 220.1 203.2L236 207.2 215.2 216.3 229.8 220 211.2 228.1C211.2 228.2 211.1 228.3 211.1 228.4L232.3 233.7 208.4 244.1 232.3 249.8 205.3 260.8C205.3 261.2 205.2 261.6 205.2 261.9L244.8 268.7 204.3 280.6 254.7 288.1 208.1 299.8H283.1V128.1C262.3 143.7 245.7 160.7 233.1 179.6L238.9 181.6 227.7 188.3ZM424.8 587C400.4 608.2 368.5 621 333.7 621 298.2 621 265.8 607.7 241.2 585.9 256.8 614.7 285.5 635.4 319.3 639.9V653.7H347.6V639.9C380.9 635.4 409.2 615.2 424.8 587ZM561 758.9C562.7 761.3 564.5 763.4 566.3 765.4V750.2C561.9 748 558.8 748.8 561 758.9ZM572.8 775.4L553.5 757.7 541.3 738C532.2 730.6 527.3 743.9 533.2 751.7L541.4 765.9C539.6 777.4 546.5 782 549.1 790 541.1 797.1 547.9 800.3 547.4 805.5 545.6 822.4 559.5 828.1 565.6 839.4 585.3 857.7 589.1 851.7 600.8 857.9L642.1 879.7 637.9 832.8C636.5 822.9 636.2 808.7 631 795.4 617.4 776.7 612.3 774 596.8 767.9L589.9 764.4V783.4L592.3 786.1 572.8 775.4ZM226.3 657.6L225.3 662.3H225.4L223.9 669.6 219.6 691.5 214.5 684.3 215.1 672.5 223.9 669.6 225.3 662.3 209.3 660.1 210.4 646.6 215.8 625.2C215.8 625.2 231.5 609.7 215 610.3 215 610.3 215 593.6 203.2 598.4L201.4 617.9 181.6 644.5 181.4 664.3C181.3 665.3 180.5 666.1 180.1 666.9 177.4 673 176 679.2 172.5 683.6 159.3 702.7 175.9 717.1 177.6 733.9L180.8 746.6 175.9 753.9 176.3 815.9 213.9 758.6C221.3 741 236.5 729.5 235.9 705.9 239.7 693.5 236.7 680.1 234.6 666.8 232.9 656.6 229 656.1 226.3 657.6ZM652.4 820.2C652.1 819.7 651.7 819.1 651.3 818.6 644 777.8 621.3 766.5 589.9 753.4V373.3C592.6 374.1 594.1 372.7 591.5 367.6L589.9 364.4V359.8L599 325.4 597.9 321.4 602.8 311.6 589.9 286.7V256.2L611 244 631.2 226.9H665.1 668.2V223.8 206.4 203.3H665.1 589.9V120.5 117.4H586.8 569.4 566.3V120.5 203.3H492.6 489.6V206.4 223.8 226.9H492.6 523.4L543.3 243.7 566.3 257V735.4C548.7 659.2 531 615.7 462.9 561.9 461.8 552 455.8 544 449.3 538.2 448.2 528.2 442.2 520.2 435.7 514.4 434.2 513.1 432.8 511.9 431.4 510.9 430.4 505.6 428 500.9 424.9 496.9 426.4 496.1 427.9 495.3 429.3 494.5 443.4 486.5 451.7 476.7 451.7 466 451.7 459.4 448.5 453.1 442.7 447.4 448 434 451 419.4 451 404.1 451 395.9 450.1 387.9 448.5 380.2L453.8 375.3 480 306.5 480.6 304.9 480.8 303.1C484.4 249.4 473.9 205.4 449.5 168 425.8 131.8 389.4 102.2 340.2 76.3L331.3 71.7 322.3 76.3C273.1 102.2 236.6 131.7 213 168 188.6 205.4 178.1 249.4 181.7 303.1L181.8 304.9 182.4 306.5 208.7 375.2 216.2 382.1C214.8 389.3 214.1 396.8 214.1 404.5 214.1 419.7 217 434.3 222.4 447.7 216.6 453.4 213.4 459.7 213.4 466.3 213.4 477.3 222.1 487.4 236.9 495.5 238 496.1 239.1 496.6 240.2 497.2 237.1 501.2 234.7 505.9 233.7 511.2 232.9 511.8 232.1 512.4 231.3 513.1 224.1 519 216.9 527.6 215.8 538.6 207.7 545.8 200.3 556.3 202.3 569.8 105.5 667.2-14.6 856.9 152.4 922.4L156.8 932.4H279.9V664.9H387.9V784.3 827.7 932.4H670.6C679.6 908.3 657 842.7 652.4 820.2ZM589.9 226.9H619.8L603 238.3 589.9 242.6V226.9ZM304.1 261.6H323.8V238H340.7V261.6H360.9V278.5H340.7V333.8H323.8V278.5H304.1V261.6ZM324.5 538.7L324.6 539.1H317.9C312.1 538.2 301.6 514.9 292.6 498 281.1 476.2 274.1 484.8 264.8 454.2L272.7 387H327 392.4L400.3 453.8C390.9 484.4 384 475.9 372.5 497.7 363.5 514.6 353 537.8 347.2 538.7H330.3 324.5ZM254.8 531.5C258.5 529.5 262.4 526.6 266.3 522.8 268.2 521 269.6 518.9 270.5 516.6V522.9C270.5 545.2 288.7 563.3 311 563.3H333.7V563H354.1C376.4 563 394.6 544.8 394.6 522.5V516.3C395.5 518.5 396.9 520.6 398.8 522.5 402.7 526.2 406.6 529.1 410.3 531.2 410.2 537.1 411.7 542.9 416.3 547.3 418.7 549.6 421 551.5 423.4 553.2 420.7 556.5 417.9 559.7 414.9 562.7 394.1 583.5 365.4 596.3 333.7 596.3S273.2 583.5 252.4 562.7C249.2 559.4 246.2 555.9 243.3 552.3 245.1 550.9 247 549.4 248.8 547.6 253.4 543.2 254.9 537.4 254.8 531.5ZM428.1 177.7L420.1 180.5 435.5 189.8 420.1 193.7 439.3 202 423 206.1 443.8 215.2 429.2 218.9 448.3 227.2 426.7 232.6 450.6 243 426.7 248.7 455.6 260.5 414.2 267.6 454.7 279.5 404.3 287 455.3 299.8H382.1V130.1C400.9 144.7 416.2 160.4 428.1 177.7ZM283.1 128.1V299.8H208.1L254.7 288.1 204.3 280.6 244.8 268.7 205.2 261.9C205.2 261.6 205.3 261.2 205.3 260.8L232.3 249.8 208.4 244.1 232.3 233.7 211.1 228.4C211.1 228.3 211.2 228.2 211.2 228.1L229.8 220 215.2 216.3 236 207.2 220.1 203.2C220.2 203.1 220.2 203 220.3 202.8L238.9 194.8 225.9 191.5C226.5 190.4 227.1 189.4 227.7 188.3L238.9 181.6 233.1 179.6C245.7 160.7 262.3 143.7 283.1 128.1ZM235.9 705.9C236.5 729.5 221.3 741 213.9 758.6L176.3 815.9 175.9 753.9 180.8 746.6 177.6 733.9C175.9 717.2 159.3 702.7 172.5 683.6 176 679.2 177.4 673 180.1 666.9 180.5 666.1 181.3 665.3 181.3 664.4L181.6 644.5 201.4 617.9 203.1 598.4C215 593.6 215 610.3 215 610.3 231.5 609.7 215.8 625.2 215.8 625.2L210.4 646.6 209.3 660.1 225.3 662.3 226.3 657.6C229 656.1 232.9 656.6 234.6 666.8 236.7 680.1 239.7 693.5 235.9 705.9ZM347.6 639.9V653.7H319.2V639.9C285.4 635.4 256.8 614.7 241.2 585.9 265.8 607.7 298.2 621 333.7 621 368.5 621 400.4 608.2 424.8 587 409.2 615.2 380.9 635.4 347.6 639.9ZM589.9 764.4L596.8 767.9C612.3 774 617.4 776.7 631 795.4 636.2 808.7 636.5 822.9 637.9 832.8L642.1 879.7 600.8 857.9C589.1 851.7 585.3 857.7 565.6 839.4 559.5 828.1 545.6 822.4 547.4 805.5 547.9 800.3 541.1 797.1 549.1 790 546.5 782 539.6 777.4 541.4 765.9L533.2 751.7C527.3 743.9 532.2 730.6 541.3 738L553.5 757.7 572.8 775.4 592.2 786.1 589.9 783.4V764.4ZM566.3 750.2V765.4C564.5 763.4 562.7 761.3 561 758.9 558.8 748.8 561.9 748 566.3 750.2ZM551.3 238L535.4 226.9H566.3V242.9L551.3 238Z",
+        "width": 750
+      },
+      "search": [
+        "saint"
+      ]
+    },
+    {
+      "uid": "720a92e47e22b1bd0666412b66df8433",
+      "css": "share-ok",
+      "code": 59635,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M183.6 683.6C82.4 683.6 0 601.2 0 500 0 398.8 82.4 316.4 183.6 316.4 284.8 316.4 367.2 398.8 367.2 500 367.2 601.2 284.8 683.6 183.6 683.6ZM183.6 357.6C105.1 357.6 41.2 421.5 41.2 500 41.2 578.5 105.1 642.4 183.6 642.4 262.1 642.4 326 578.5 326 500 326 421.5 262.1 357.6 183.6 357.6ZM816.4 383.4C715.2 383.4 632.8 301 632.8 199.8 632.8 98.6 715.2 16.2 816.4 16.2 917.6 16.2 1000 98.6 1000 199.8 1000 301 917.6 383.4 816.4 383.4ZM816.4 57.4C737.9 57.4 674 121.3 674 199.8 674 278.3 737.9 342.2 816.4 342.2S958.8 278.3 958.8 199.8C958.8 121.3 894.9 57.4 816.4 57.4ZM816.4 983.8C715.2 983.8 632.8 901.4 632.8 800.2 632.8 699 715.2 616.6 816.4 616.6 917.6 616.6 1000 699 1000 800.2 1000 901.4 917.6 983.8 816.4 983.8ZM816.4 657.8C737.9 657.8 674 721.7 674 800.2 674 878.7 737.9 942.6 816.4 942.6S958.8 878.7 958.8 800.2C958.8 721.7 894.9 657.8 816.4 657.8ZM315.8 425.4C308 425.4 300.4 420.9 297.1 413.1 292.4 402.7 297.1 390.4 307.4 385.9L644.9 235.7C655.3 231.1 667.6 235.7 672.1 246.1 676.8 256.4 672.1 268.8 661.7 273.2L324.2 423.6C321.5 424.8 318.8 425.4 315.8 425.4ZM653.5 766C650.6 766 647.7 765.4 644.9 764.1L310.5 609.2C300.2 604.5 295.7 592.2 300.6 581.8S317.6 567 327.9 571.9L662.1 726.8C672.5 731.4 677 743.8 672.1 754.1 668.6 761.5 661.1 766 653.5 766Z",
+        "width": 1000
+      },
+      "search": [
+        "1457717916_share"
+      ]
+    },
+    {
+      "uid": "4e30651f1d1ae004c2f492a0b220ea4d",
+      "css": "arrow-right",
+      "code": 59636,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M46.2 469.4C46.2 489.8 46.2 510.2 46.2 530.6L776.8 530.6 776.9 579.1 953.8 500 776.9 420.9 776.8 469.4Z",
+        "width": 1000
+      },
+      "search": [
+        "1457721643_arrow_23"
+      ]
+    },
+    {
+      "uid": "56c05d6e2be34280cda7218cbd5b3f3f",
+      "css": "crekva",
+      "code": 59637,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M316.7 584H422.1 430.3V479 432.8C430.3 403.2 406.2 379.1 376.6 379.1H368.8C339.3 379.1 315.1 403.2 315.1 432.8V578 584H316.7ZM418.8 625.3C403.9 621.1 388.1 618.8 371.7 618.8 356.4 618.8 341.5 620.8 327.3 624.5 297 632.5 269.9 648.4 248.4 669.9 239.5 678.8 231.5 688.8 224.7 699.5H187.7V740.7H288V702.4C300 691.4 314.1 682.7 329.7 677.1 342.8 672.3 357 669.7 371.7 669.7 388.2 669.7 403.8 672.9 418.1 678.7 431.7 684.2 444.1 692.1 454.7 701.8V739.6H555V698.5H518.1C511.4 688.2 503.7 678.5 495.1 669.9 474.2 649 448.1 633.4 418.8 625.3ZM483.8 498.6V343.8L372.5 234.8 262.1 343.8V499.6L242.5 525 191.6 591.2V591.4L191.4 591.4 158.7 633.8V881.1H220V838.5C220 833.7 222.1 829.3 225.3 826.2H227.1V750.5H257.5V826.2H260C263.3 829.3 265.3 833.7 265.3 838.5V881.1H315.4V773C315.4 759 320.9 746.3 329.7 736.7 339.6 726.1 353.6 719.3 369.1 719.3H376.9C393.4 719.3 408.3 726.9 418.1 738.7 425.9 748.1 430.6 760 430.6 773V881.5H478.2V838.8C478.2 834 480.2 829.6 483.5 826.5H485.2V750.8H515.6V826.5H518.2C521.4 829.6 523.5 834 523.5 838.8V881.5H589.2V634.2L503.4 523.9 483.8 498.6ZM315.1 432.8C315.1 403.2 339.3 379.1 368.8 379.1H376.6C406.2 379.1 430.3 403.2 430.3 432.8V479 584H422.1 316.7 315.1V578 432.8ZM555 698.5V739.6H454.7V701.8C444.1 692.1 431.7 684.2 418.1 678.7 403.8 672.9 388.2 669.7 371.7 669.7 357 669.7 342.8 672.3 329.7 677.1 314.1 682.7 300 691.4 288 702.4V740.7H187.7V699.5H224.7C231.5 688.8 239.4 678.8 248.4 669.9 269.9 648.4 297 632.5 327.3 624.5 341.5 620.8 356.4 618.8 371.7 618.8 388.1 618.8 403.9 621.1 418.8 625.3 448.1 633.4 474.2 649 495.1 669.9 503.7 678.5 511.4 688.2 518.1 698.5H555ZM216.9 522.7L204.8 520.2C204.8 520.7 204.8 521.1 204.8 521.5V526.5L214.9 525.3 216.9 522.7ZM150 521.5C150 507.5 161.5 495.9 175.5 495.9H179.2C186.7 495.9 193.3 499.2 198 504.2L233.7 500.1 235.5 497.7 193 489.2 238.5 484 193.7 475 242.5 469.4V468.8L195.1 459.4 240.6 454.1 195.9 445.1 238.9 440.2 195.9 431.6 241.4 426.3 196.6 417.4 242.5 412.1V411.6L198.5 402.8 41.1 597.5 56.4 597.7V853.3H99L95.3 852.6 136.8 848.2 136.8 847.5 94.6 839.9 136.8 835.4 136.8 833.8 95.2 826.3 136.8 821.9 136.8 821 94.6 813.4 136.8 808.9 136.8 808.1 94.6 800.5 136.8 796 136.8 795.5 93.9 787.8 136.9 783.2 136.9 781.9 94.3 774.2 136.9 769.7V769.1L93.7 761.3 136.9 756.7V756.2L93.7 748.4 136.9 743.8V743.6L93 735.7 136.9 731 136.9 730.4 94.3 722.7 137 718.2V717.6L93.8 709.7 137 705.2 137 704.7 93.8 696.8 137 692.3 137 692.1 93 684.1 136.5 679.5 93.7 671.8 137 667.2V666.8L93.1 658.9 137.1 654.2V653.9L93.1 646 137 641.3 92.4 633.3 138 628.4 138.4 628 93 619.7 145.5 614.2 100.3 606 155.7 600.1 123.1 593.3 149.9 590V582.7L138.4 580.2 149.9 578.8V521.5ZM225.6 511.1L199.4 505.8C201.7 508.8 203.4 512.3 204.2 516.1L223.5 513.8 225.6 511.1ZM545.3 521.1C545.3 520.7 545.3 520.3 545.3 519.8L533.2 522.3 535.2 524.9 545.3 526.1V521.1ZM507.6 411.2V411.7L553.5 417 508.7 425.9 554.2 431.2 511.2 439.8 554.3 444.8 509.5 453.7 555 459 507.6 468.4V469L556.4 474.6 511.6 483.6 557.2 488.8 514.6 497.3 516.4 499.7 552.1 503.9C556.8 498.8 563.4 495.5 570.9 495.5H574.6C588.6 495.5 600.2 507.1 600.2 521.1V578.4L611.7 579.8 600.2 582.3V589.6L627 592.9 594.4 599.7 649.8 605.6 604.6 613.8 657.1 619.3 611.7 627.6 612.1 628 657.7 632.9 613.1 640.9 657 645.6 613 653.5V653.8L657 658.5 613.1 666.4V666.8L656.4 671.4 613.6 679.1 657.1 683.7 613.1 691.7V691.9L656.3 696.4 613.1 704.3V704.8L656.3 709.4 613.1 717.2V717.8L655.8 722.3 613.2 730V730.7L657.1 735.3 613.2 743.3V743.4L656.4 748 613.2 755.8V756.3L656.4 760.9 613.2 768.7V769.3L655.8 773.8 613.2 781.5V782.8L656.2 787.4 613.3 795.1V795.6L655.5 800.1 613.3 807.7 613.3 808.5 655.5 813 613.3 820.6V821.5L654.9 825.9 613.3 833.4V835L655.5 839.5 613.3 847.1 613.3 847.8 654.8 852.2 651.1 852.9H693.7V597.3L709 597.1 551.6 402.4 507.6 411.2ZM550.7 505.4L524.5 510.7 526.6 513.5 545.9 515.7C546.7 511.9 548.4 508.4 550.7 505.4Z",
+        "width": 750
+      },
+      "search": [
+        "crekva"
+      ]
+    },
+    {
+      "uid": "2b0c6acf8724be5cee10be1bc44f4ae7",
+      "css": "dev",
+      "code": 59638,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M0 550.2L144.8 402.4 264.7 520.5 382.8 402.4 500 522.3 617.2 402.4 734.3 518.6 853.4 402.4 1000 550.2 965 585.6 854.3 470.2 735.3 585.6 619 469.3 500 585.6 382.8 466.5 264.7 585.6 146 471.6 36 585.6 0 550.2Z",
+        "width": 1000
+      },
+      "search": [
+        "dev"
+      ]
+    },
+    {
+      "uid": "19da902820d9e597dd1d61d856f82436",
+      "css": "hands",
+      "code": 59639,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M438.4 581.7L437.7 583.1C438.8 582.6 440 582.2 441.2 581.9 441.6 581.8 442.1 581.7 442.6 581.6 441.2 581.7 439.8 581.6 438.4 581.4L438.4 581.7ZM396.7 645.9C395.1 637.7 399 629.7 405.8 625.7 396.1 626.8 387 620.3 385.1 610.5 383.3 601.3 388.3 592.4 396.7 589.1 396.2 589.2 395.8 589.3 395.3 589.4 389 590.7 382.9 588.7 378.6 584.6L292.3 727.9 265.7 772.1C279.3 794 296.8 807.1 315.8 807.1 327.9 807.1 339.3 801.8 349.5 792.4 344.5 790.7 339.6 788.1 334.7 784.8L401.1 654.8C399 652.3 397.4 649.3 396.7 645.9ZM580.5 269.6C578.6 280.1 572.8 293 563.9 307.9 558.4 330.7 564.7 354.2 547.4 376.2 532 399.2 536.2 427.9 507.8 445.1 469.7 500.5 430.2 531.9 395.1 552 402.5 553.4 408.7 559.1 410.3 567 412.1 576.2 407.1 585.1 398.7 588.4 399.2 588.3 399.6 588.2 400.1 588.1 410.4 586 420.5 592.7 422.5 603.1 424.1 611.3 420.2 619.3 413.4 623.2 414.7 623.1 415.9 623.1 417.2 623.2L426.9 604.2C426.9 604.4 427 604.6 427 604.8 428.9 612.8 435.5 618.4 443.2 619.3 442.7 619.3 442.2 619.3 441.6 619.4 435.7 619.8 430.6 622.9 427.4 627.4 430.8 630.1 433.2 633.9 434.1 638.5 435.2 643.8 433.9 649.1 431 653.2 433.7 655.4 437.1 656.9 440.8 657.3 440.3 657.3 439.9 657.3 439.4 657.3 436.6 657.5 434 658.3 431.7 659.6 438.8 661.2 444.8 666.8 446.3 674.5 448 682.9 443.9 691.1 436.7 695 438.4 695.4 440.2 695.5 442.1 695.4 452.6 694.6 460.5 685.5 459.7 675 459.1 665.7 451.9 658.4 442.9 657.4 443.4 657.4 443.8 657.4 444.3 657.4 454.8 656.6 462.7 647.5 462 637 461.3 627.8 454.3 620.6 445.5 619.5 447 619.5 448.5 619.3 449.9 619 460.2 616.6 466.5 606.3 464.1 596 462 587 453.7 581 444.7 581.4 445.2 581.3 445.6 581.2 446.1 581.1 456.3 578.7 462.7 568.4 460.3 558.2 459.8 556.3 459.1 554.5 458.2 552.9 483.9 536.9 500.4 519.9 533 464.6 558.3 446.8 558.7 419.8 571.6 397.4 586.4 375.7 578.9 354.1 582.6 332.4 599.9 298.4 601.4 275.9 580.5 269.6ZM441.2 581.9C440 582.2 438.8 582.6 437.7 583.1L438.4 581.7 438.4 581.4C439.8 581.6 441.2 581.7 442.6 581.6 442.1 581.7 441.6 581.8 441.2 581.9ZM374.2 562.9C373.7 563.2 373.1 563.5 372.6 563.7L373.9 563.6C374 563.4 374.1 563.2 374.2 562.9ZM562.1 236.1C561.7 236.7 561.3 237.3 560.9 237.9 560.9 237.9 560.9 237.9 561 238 561.3 237.3 561.7 236.7 562.1 236.1ZM367.8 351C366.6 360.2 359 367.1 350 367.6 350.4 367.6 350.9 367.6 351.4 367.7 361.8 369 369.2 378.6 367.9 389 366.8 397.2 360.8 403.4 353.3 405.2 353.8 405.1 354.3 405 354.8 405 365.4 404.7 374.2 412.9 374.5 423.5 374.8 432.8 368.4 440.7 359.6 442.7 360.1 442.6 360.5 442.6 361 442.6 371.5 442.2 380.3 450.5 380.7 461 380.9 468.4 376.9 475 370.7 478.3 371.2 478.3 371.7 478.2 372.2 478.2 382.7 477.9 391.5 486.1 391.9 496.6 392.2 505.9 385.8 513.9 377 515.9 377.5 515.8 378 515.8 378.4 515.8 388.6 515.4 397.2 523.1 398.1 533.1 427.4 517 451 493.4 491.3 440.7 520.5 425.1 524.4 396.5 540.9 374.4 559.4 353.3 554.2 329.4 560.9 306.9 577.8 281.8 584.7 262.2 578.3 249.9 579.3 251.7 580.1 253.6 580.6 255.8 585.3 243.4 585.5 231.8 573.3 222.9 573 220.8 572.6 219 572.1 217.2 575.3 207.6 574.4 198.2 565.2 189.5 564.6 169.6 553.8 162.5 543.1 169.1 537.7 172.3 532.4 178.9 528.3 189L514.3 217.2 522.8 197.8C513.1 199.7 500.1 216.5 499 233.5 486.8 248.8 481.8 260.4 477.1 271.9L469.6 277.9 460.6 285.2 486.4 241.6 502 210.7 509.4 196 524.1 169.9C524.6 150.3 509.1 154.3 497.4 167.3 491.6 173.7 486.6 182.2 484.9 191.3 484.1 192.1 483.4 192.9 482.6 193.7 461.4 215.3 457.8 230.6 444.9 249.2L399.5 293.9 356.2 331C364 334.2 368.9 342.3 367.8 351ZM562.1 236.1C561.7 236.7 561.3 237.3 561 238 560.9 237.9 560.9 237.9 560.9 237.9 561.3 237.3 561.7 236.7 562.1 236.1ZM213.2 659.2C217.6 695 228.1 727.1 242 751.8L375.4 553.5C366.9 551.8 360.4 544.5 360.1 535.5 359.7 526.2 366.1 518.2 374.9 516.2 374.5 516.3 374 516.3 373.5 516.3 363 516.7 354.2 508.5 353.8 498 353.5 490.5 357.6 483.9 363.7 480.6 363.2 480.6 362.7 480.7 362.3 480.7 351.7 481 342.9 472.8 342.6 462.2 342.3 452.9 348.7 445 357.5 443 357 443.1 356.6 443.1 356.1 443.1 345.6 443.5 336.7 435.2 336.4 424.7 336.1 415.5 342.4 407.6 351 405.5 349.5 405.7 348 405.7 346.5 405.5 336.1 404.2 328.7 394.6 330.1 384.2 331.2 374.9 338.9 368.1 347.9 367.6 347.4 367.5 346.9 367.5 346.5 367.5 336 366.1 328.6 356.6 330 346.1 330.7 340.4 333.9 335.7 338.3 332.7 346.8 311.5 357.5 291 358.2 271.9 358.7 256.9 353.2 242.8 335.8 229.8 320.3 244.7 325.4 259.7 320.2 274.7L299.3 310C280.5 349.2 268.4 388.3 265.9 427.5 268.8 440.4 269.9 452.9 270.9 465.4 271.9 476.7 252.6 504.5 229.4 533.5 213.8 563.7 207 609.4 213.2 659.2ZM430 662.1C429 662 427.9 662 426.9 662.1 418.2 662.7 411.6 670.3 412.2 679 412.8 687.7 420.4 694.3 429.1 693.7 434.5 693.3 439.1 690.3 441.6 686 439.7 687.3 437.4 688.2 434.8 688.4 427.4 688.9 421 683.3 420.5 675.9 420 669.6 424.1 663.9 430 662.1ZM416.9 658.2C422.3 657.9 426.9 654.8 429.4 650.5 427.5 651.9 425.2 652.8 422.7 653 415.3 653.5 408.8 647.9 408.3 640.5 407.9 634.1 411.9 628.5 417.8 626.7 416.8 626.6 415.8 626.6 414.7 626.6 406 627.3 399.4 634.8 400 643.6 400.6 652.3 408.2 658.9 416.9 658.2ZM406.2 590.5C405.2 590.4 404.2 590.3 403.1 590.4 394.4 591 387.8 598.6 388.4 607.3 389.1 616.1 396.6 622.6 405.4 622 410.7 621.6 415.3 618.6 417.9 614.3 415.9 615.7 413.6 616.6 411.1 616.7 403.7 617.3 397.3 611.7 396.7 604.3 396.3 597.9 400.3 592.3 406.2 590.5ZM393 586.6C397.8 586.3 402 583.9 404.6 580.3 403.4 580.8 402.2 581.2 400.8 581.5 390.5 583.5 380.5 576.8 378.4 566.5 378.2 565.4 378.1 564.3 378.1 563.2 376.6 565.8 375.9 568.8 376.1 572 376.7 580.7 384.3 587.3 393 586.6ZM392.5 543C392 543.2 391.4 543.5 390.9 543.6 388.8 545.1 386.4 546.1 383.8 546.6 376.6 548.1 369.5 545.2 365.2 539.9 367.8 545.9 374 549.9 380.9 549.4 385.7 549 389.8 546.6 392.5 543ZM240.2 811.2C214.4 783.6 193.8 735.5 186.8 679.2 181.7 638 184.7 599.3 193.8 568.6 201 544.4 211.9 525.2 225.6 513.4 182 522.6 148 594.2 148 681.1 148 774.3 187 849.9 235.1 849.9 248.5 849.9 261.2 844 272.5 833.5 261.3 829.7 250.3 822 240.2 811.2Z",
+        "width": 750
+      },
+      "search": [
+        "hands"
+      ]
+    },
+    {
+      "uid": "fc8954214339db4ac32785ec6df0fb54",
+      "css": "head",
+      "code": 59640,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M250.4 323C267.4 351 299.2 363 335.4 365.8L335.1 356C298.7 356 267.4 347 250.4 323ZM305 236.5C305.1 236.5 305.1 236.4 305.1 236.3 305.1 235.7 305.1 236 305 236.5ZM389 349.6C388.6 348.6 388.3 346.8 388.3 348.4 388.3 349.8 388.6 350 389 349.6ZM552.6 185.2C547.5 174.5 541.6 165.1 535.1 156.8 512.7 128.4 483.1 114.9 448.9 113 416.3 111.3 379.6 120.4 341.3 137.5 301.3 155.3 259.2 181.9 217.8 213.7 217.6 213.9 217.3 214 217.1 214.2 214.1 216.5 211.2 218.8 208.2 221.1L196.1 230.7 207.7 241 215.3 247.7C171.9 291.5 156.4 347.5 206.3 401.2L236.5 365.1 236.5 365.1C237.6 386.3 257.8 415.7 257.8 426.2 257.8 444 233.3 468.3 233.3 468.3 234.3 470.3 249.5 482.6 250.4 486.7 251.7 492.8 252.2 491.2 253.1 498 253.4 501.1 253.3 494.9 253.8 497.9 254.4 501.8 246.3 503.4 246.6 508 246.7 509.4 250.6 513.7 250.3 518.6 250.2 521.5 249.5 527 250.3 529.8 252.4 537.2 261.8 540.1 261.9 542.4 262 544.5 262.2 546.6 262.3 548.7 262.9 559.6 257.3 569.9 260.2 573 274.3 587.1 306.7 585.1 341.6 574.3L344.2 660.5 348 589.9 360.9 347.6V341.8L356.5 337.9 237.7 233C250.7 229.5 275.2 229.9 293 234 296.9 234.9 300.3 236 302.9 237.2 291.3 247.6 290.7 256 297.5 263.7 303.1 270.1 312.5 270.6 323.5 271.1 333.2 271.6 345.7 272.3 345.7 274 345.7 279.6 344.7 280.5 343.6 281.4 340.4 284.1 337.1 286.9 334.5 293.7 330.7 303.6 334.8 309.6 344.4 313.3 349.1 315.1 355.5 316 362.7 316.9 372.3 318.2 383.6 316.5 383.8 318.2 384.6 324.2 382.1 325.2 379.9 326 370.8 329.7 362.4 333 362.4 348.4 362.4 358.1 369.9 362.9 379.2 368.9 384 372.1 389.8 375.8 393.1 379.5 395.6 382.3 395.7 386.5 388 393.3 371.8 407.7 373.8 417.3 382.7 427.4 384.7 429.6 386.9 431.4 389.2 433.4 393.5 437 398.8 441.5 398.8 448.5 398.8 451 394 455.3 390 458.8 386 462.4 382.3 465.6 379.9 470 374.3 479.8 375.2 488.5 388.8 496.2 402.1 503.7 398.2 511.3 394 519.7 390.2 527 386.3 534.7 385.3 544.1 383.4 559.9 392 569.3 400.4 578.6 402.3 580.7 404.2 582.7 405.7 584.7 409 589.2 409.1 594.8 393.7 607.1 392.6 607.9 391.5 608.7 390.4 609.6 443.4 601.2 409.9 556.3 411 547.1 411.6 542.3 414.4 536.8 417.1 531.4 426.6 512.8 435.2 495.8 407.8 477.6 415.7 470.6 424.8 462.2 424.8 448.5 424.8 429.6 414.3 420.7 405.9 413.7 404.3 412.4 402.9 411.2 402.1 410.3 400.5 408.5 404.7 413.1 405.2 412.7 428.2 392.3 424.3 375.7 412.4 362.3 407.1 356.3 400.4 351.8 394.5 348 403.9 343.7 412.3 336.8 409.4 314.8 407.2 297.6 386.4 294 368.5 291.6 370.4 287.7 371.7 282.2 371.7 274 371.7 249.4 348.6 246.6 328.8 245.5 330.4 242.1 331.1 238.7 331 235.3 330.6 227.1 326 220.8 318.3 216.2 313.2 213 306.4 210.5 298.8 208.8 291.2 207 282.4 205.9 273.4 205.4 284.8 197.8 296.1 190.7 307.4 184.1 307.4 184.1 307.5 184.1 307.5 184.1 367.6 165.4 384.8 184.8 389.7 200.5 391.7 207 391.8 212.9 391.8 215.4 391.8 218.3 391.9 220 395.1 220 396.3 220 396.8 220 399.5 219.9 414.8 219.9 438.4 219.7 445.2 226.6 448.3 229.6 447 235 437.7 244.3 424.4 257.6 424.5 264.8 430.3 270.6 433 273.3 437 275.4 441.3 277.7 454.7 284.6 472.6 293.8 453.5 331.9 449.9 339.1 452.3 343.3 457.7 346L457.7 346C462.5 348.4 469.7 349 476.3 349.5H476.4C481.3 349.9 485.9 350.3 488 351.3 490.6 352.4 491.2 353.7 490.6 355.1V355.2C489.1 358.4 484.3 362.8 479 367.6 472.8 373.2 466.1 379.2 462.5 385.7 457.3 394.8 457.9 404.1 472.8 412.4 482.6 418 485.9 422.2 484.4 426.2 482.6 431.2 475 436.9 463.6 444.3 451.8 452 450.4 458 454.3 463.9V463.9C456.6 467.6 461.2 470.7 466.5 474.4 479.2 483.1 496.5 495 489.2 520.9 485 535.8 488.9 542.6 493 549.7 495.3 553.6 497.6 557.7 498 563.8 498.9 576.3 482.7 599.8 476.6 608.3 475.2 610.2 474.3 611.3 474.3 611.4 494.3 591.9 512.9 571.3 498.6 546.4 495.2 540.6 491.9 534.9 495.4 522.6 504 492.3 484.5 478.9 470.2 469 465.5 465.8 461.4 463 459.7 460.4L459.7 460.4C458 457.8 459.5 454.7 467.2 449.7 479.6 441.6 488 435.1 490.5 428.5 493.3 421 489.2 414.3 475.9 406.8 465.5 400.9 464.8 394.7 468.1 388.9 471.2 383.3 477.5 377.6 483.3 372.4 489.1 367.2 494.5 362.3 496.5 357.8L496.5 357.8C498.7 352.7 497.6 348.5 490.6 345.3 487.4 343.9 482.4 343.5 476.9 343.1 470.8 342.6 464.2 342 460.6 340.2V340.2C458.7 339.3 457.9 337.6 459.3 334.8 481.2 291 460.1 280.1 444.3 271.9 440.4 269.9 436.9 268.1 434.9 266 431.9 263.1 432.6 258.5 442.3 248.9 454.9 236.2 455.6 227.7 449.8 222 441.1 213.2 415.8 213.4 399.5 213.5L398.2 213.5C398.2 210.1 397.8 204.6 395.9 198.6 391 182.7 375.9 163.6 329.4 172 337 168 344.5 164.4 351.9 161.1 386.6 145.7 419.2 137.4 447.6 138.9 474.4 140.3 497.5 150.8 514.8 172.8 520.9 180.4 526.3 189.5 531 200.1L532.9 204.5 537.3 206.5C673.3 270.4 704.6 413.8 696 542.8 692.5 595.4 682.3 645.7 669.9 687.2 671.4 682.3 672.9 677.4 674.4 672.4 723.5 510 787.5 298.5 552.6 185.2ZM389 349.6C388.6 350 388.3 349.8 388.3 348.4 388.3 346.8 388.6 348.6 389 349.6ZM305.1 236.3C305.1 236.4 305.1 236.5 305 236.5 305.1 236 305.1 235.7 305.1 236.3ZM335.4 365.8C299.2 363 267.4 351 250.4 323 267.4 347 298.7 356 335.1 356L335.4 365.8ZM185.9 680.5C194.8 696 195.8 720.7 188.9 748.3 178.2 718.2 159.8 662.5 165.4 651.4 168.9 644.4 172.5 637.5 177.2 630.7 185 607.6 187.3 582.2 185.7 555.2L182 530C182.5 520.1 189 512.7 183.6 500.5 148.7 509.5 160.5 543.1 157.2 572L131.8 522.3 116.2 485.9C113.1 471.7 114.9 461.8 106.8 443.1 110.3 426.1 95.8 404.6 89.3 421.6L91.6 440 94.1 471.7 98.7 502.9 88.8 484.9 84.2 457.3 82.4 431.6C82.4 411.2 68.6 406.2 61 423.2 48.5 428 49.4 439.5 52.1 452.1 34.2 449.8 30.3 464.8 35.8 491.8 34.4 506.3 25.8 518.8 31.4 535.3 35.7 551.9 31.2 569.3 44.3 585.2 57.7 634.5 71.8 652.1 91.5 671.6L91.5 671.6 129.8 840.7 169.4 797C146.9 837.2 114.8 863.3 89.7 862.9 94.3 871.6 100.7 877.8 108.7 880.7 137.6 890.9 177.1 853.8 196.9 797.8 215.4 745.5 210.1 695.3 185.9 680.5Z",
+        "width": 750
+      },
+      "search": [
+        "head"
+      ]
+    },
+    {
+      "uid": "9b64149d5a485acc3f7ff5255a251687",
+      "css": "krest",
+      "code": 59641,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M690.4 379.6C689.2 374.8 680.8 370.2 663.6 359.4 627.7 336.8 599.8 308.4 580.1 273.9 563.4 244.7 547 268.4 547 268.4 521 299.2 515.7 308.1 477 317.6 474 334.2 459.5 346.8 442 346.8 430.6 346.8 420.4 341.4 413.9 333 409.2 327 406.4 319.4 406.4 311.2 406.4 292.5 420.8 277.3 439 275.7 448.4 237.8 457.4 232.4 488 206.6 488 206.6 511.7 190.2 482.5 173.5 448 153.8 419.6 125.9 397 90 386.2 72.8 381.6 64.4 376.8 63.2V62.8C371.4 62.6 367 70.8 355 89.8 332.4 125.7 304.1 153.5 269.6 173.3 240.3 189.9 264.1 206.3 264.1 206.3 295 232.4 303.8 237.7 313.3 276.5L313.5 277.4C329.1 281.2 340.7 295.2 340.7 312 340.7 319.6 338.3 326.6 334.3 332.4 327.8 341.6 317.2 347.6 305.1 347.6 287 347.6 272.1 334.1 269.8 316.6 236.5 307.6 230.4 298.1 205.8 268.9 205.8 268.9 189.3 245.2 172.7 274.4 153 308.9 125.1 337.3 89.2 359.9 72 370.7 63.6 375.3 62.4 380.1H62C61.7 385.5 70 389.9 89 401.9 124.9 424.5 152.7 452.8 172.4 487.3 189.1 516.6 205.5 492.8 205.5 492.8 230.8 462.9 236.5 453.7 272.1 444.5 273.1 425.8 288.6 410.9 307.6 410.9 320.6 410.9 332 417.9 338.2 428.4 341.3 433.7 343.2 439.9 343.2 446.6 343.2 464.8 329.4 479.8 311.7 481.9L320.3 694.6 313.1 724.3C303.6 763.2 294.7 768.4 263.8 794.5 263.8 794.5 240.1 810.9 269.3 827.6 303.9 847.3 332.2 875.1 354.8 911.1 366.8 930 371.1 938.3 376.6 938V937.7C381.4 936.4 386 928 396.8 910.8 419.4 874.9 447.7 847.1 482.3 827.4 511.5 810.7 487.8 794.3 487.8 794.3 456.9 768.2 448 762.9 438.5 724.1L431.8 696.5 436.4 480.4C420.6 476.7 408.9 462.6 408.9 445.8 408.9 439.2 410.7 433 413.9 427.7 420.1 417.2 431.4 410.1 444.5 410.1 463.5 410.1 479 425.1 480 443.9 516.2 453.1 521.8 462.3 547.3 492.3 547.3 492.3 563.7 516.1 580.4 486.8 600.1 452.3 627.9 424 663.8 401.4 682.8 389.4 691 385.1 690.8 379.6H690.4ZM238.2 395.3C233.4 389.6 226.3 386 218.3 386 203.9 386 192.3 397.6 192.3 412 192.3 420.1 196 427.4 201.9 432.2 196.9 439.7 192.7 447.8 189.3 456.3 171.4 402.9 169.9 403.1 118 381 169.5 360.8 171.1 360.4 191.2 309 194.4 317.2 198.1 324.8 202.5 331.8 196.6 336.5 192.8 343.8 192.8 352 192.8 366.3 204.5 378 218.8 378 226.8 378 233.9 374.4 238.7 368.7 245.8 373.5 253.4 377.6 261.6 381.2 253.1 385.5 245.3 390.2 238.2 395.3ZM324.7 202.7C317.2 197.7 309.1 193.5 300.5 190.1 353.9 172.2 353.8 170.8 375.9 118.8 396.1 170.3 396.5 171.9 447.9 192.1 439.6 195.2 432.1 199 425.1 203.3 420.4 197.4 413.1 193.6 404.9 193.6 390.5 193.6 378.9 205.3 378.9 219.6 378.9 227.6 382.5 234.7 388.1 239.5 383.4 246.6 379.3 254.3 375.6 262.4 371.4 253.9 366.7 246.1 361.6 239 367.3 234.2 370.9 227.1 370.9 219.1 370.9 204.7 359.3 193.1 344.9 193.1 336.8 193.1 329.5 196.8 324.7 202.7ZM394.1 613.9C391.3 620.9 384.4 625.8 376.4 625.8 368.5 625.8 361.7 621 358.8 614.1 357.9 611.8 357.3 609.3 357.3 606.7 357.3 596.1 365.9 587.5 376.4 587.5 387 587.5 395.5 596.1 395.5 606.7 395.5 609.2 395 611.7 394.1 613.9ZM395.5 680C395.5 690.5 387 699.1 376.4 699.1 365.9 699.1 357.3 690.5 357.3 680 357.3 669.4 365.9 660.9 376.4 660.9 387 660.9 395.5 669.4 395.5 680ZM357.1 532.5C357.1 521.9 365.7 513.4 376.2 513.4 386.8 513.4 395.3 521.9 395.3 532.5 395.3 543 386.8 551.6 376.2 551.6 365.7 551.6 357.1 543 357.1 532.5ZM375.5 398.9C372.5 398.9 369.5 398.2 366.9 397.1 359.3 393.7 354 386.2 354 377.3 354 368.6 359.2 361.1 366.7 357.7 369.4 356.5 372.4 355.8 375.5 355.8 387.4 355.8 397.1 365.4 397.1 377.3 397.1 389.2 387.4 398.9 375.5 398.9ZM424.9 797.5C431.8 801.9 439.4 805.6 447.7 808.8 396.3 828.9 395.8 830.5 375.6 882 353.6 830.1 353.7 828.6 300.3 810.7 308.9 807.3 316.9 803.1 324.5 798.1 329.3 804 336.5 807.8 344.7 807.8 359 807.8 370.7 796.1 370.7 781.7 370.7 773.8 367.1 766.6 361.4 761.9 366.5 754.7 371.1 746.9 375.4 738.4 379 746.6 383.2 754.2 387.9 761.3 382.3 766.1 378.7 773.2 378.7 781.2 378.7 795.6 390.3 807.2 404.7 807.2 412.8 807.2 420.1 803.4 424.9 797.5ZM563.5 455.9C560.1 447.3 555.9 439.2 550.9 431.7 556.8 426.9 560.5 419.6 560.5 411.5 560.5 397.1 548.9 385.5 534.5 385.5 526.5 385.5 519.4 389.1 514.6 394.8 507.4 389.7 499.7 385 491.2 380.8 499.3 377.1 507 373 514.1 368.2 518.8 373.9 526 377.5 534 377.5 548.3 377.5 560 365.9 560 351.5 560 343.3 556.2 336 550.3 331.3 554.6 324.3 558.4 316.7 561.5 308.5 581.7 359.9 583.3 360.3 634.8 380.5 582.8 402.6 581.4 402.5 563.5 455.9Z",
+        "width": 750
+      },
+      "search": [
+        "krest"
+      ]
+    },
+    {
+      "uid": "b90d80c250a9bbdd6cd3fe00e6351710",
+      "css": "ok",
+      "code": 59642,
+      "src": "iconic"
+    },
+    {
+      "uid": "76857a03fbaa6857fe063b6c25aa98ed",
+      "css": "volume-up",
+      "code": 59643,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e44601720c64e6bb6a2d5cba6b0c588c",
+      "css": "volume-off",
+      "code": 59644,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a3ee3a7f04f71edc82611ad708e0ece3",
+      "css": "1457721643_arrow_23",
+      "code": 59645,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M223.2 469.4L223.1 420.9 46.2 500 223.1 579.1 223.2 530.6H953.8C953.8 510.2 953.8 489.8 953.8 469.4L223.2 469.4Z",
+        "width": 1000
+      },
+      "search": [
+        "1457721643_arrow_23"
+      ]
+    },
+    {
+      "uid": "72b1277834cba5b7944b0a6cac7ddb0d",
+      "css": "rss-1",
+      "code": 59647,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5ff455fa68c34bfd61535d04a304b856",
+      "css": "computer",
+      "code": 59648,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M77.3 201.6C81.2 201.6 85 200 87.7 197.3 90.4 194.5 92 190.7 92 186.9 92 183 90.4 179.2 87.7 176.5 85 173.8 81.2 172.2 77.3 172.2 73.4 172.2 69.6 173.8 66.9 176.5 64.2 179.2 62.6 183 62.6 186.9S64.2 194.5 66.9 197.3C69.6 200 73.4 201.6 77.3 201.6ZM124.3 201.6C128.1 201.6 131.9 200 134.6 197.3 137.4 194.5 138.9 190.7 138.9 186.9S137.4 179.2 134.6 176.5C131.9 173.8 128.1 172.2 124.3 172.2 120.4 172.2 116.6 173.8 113.9 176.5 111.2 179.2 109.6 183 109.6 186.9S111.2 194.5 113.9 197.3C116.6 200 120.4 201.6 124.3 201.6ZM171.2 201.6C175.1 201.6 178.9 200 181.6 197.3 184.3 194.5 185.9 190.7 185.9 186.9S184.3 179.2 181.6 176.5C178.9 173.8 175.1 172.2 171.2 172.2 167.4 172.2 163.6 173.8 160.9 176.5 158.1 179.2 156.6 183 156.6 186.9S158.1 194.5 160.9 197.3C163.6 200 167.4 201.6 171.2 201.6ZM233.9 201.6H828.8C836.9 201.6 843.4 195 843.4 186.9S836.9 172.2 828.8 172.2H233.9C225.7 172.2 219.2 178.8 219.2 186.9S225.7 201.6 233.9 201.6ZM891.4 201.6H922.7C930.8 201.6 937.4 195 937.4 186.9S930.8 172.2 922.7 172.2H891.4C883.3 172.2 876.7 178.8 876.7 186.9S883.3 201.6 891.4 201.6ZM515.7 438.4H484.3C450.4 438.4 422.7 466 422.7 500V593.9C422.7 627.9 450.4 655.6 484.3 655.6H515.7C549.6 655.6 577.3 627.9 577.3 593.9V500C577.3 466 549.6 438.4 515.7 438.4ZM547.9 593.9C547.9 611.7 533.5 626.2 515.7 626.2H484.3C466.5 626.2 452.1 611.7 452.1 593.9V500C452.1 482.2 466.5 467.7 484.3 467.7H515.7C533.5 467.7 547.9 482.2 547.9 500V593.9ZM390.4 579.3H373.8V453C373.8 444.9 367.2 438.4 359.1 438.4S344.4 444.9 344.4 453V579.3H269.9L310.4 457.7C313 450 308.8 441.7 301.1 439.1 293.4 436.5 285.1 440.7 282.6 448.4L235.6 589.3C234.1 593.8 234.8 598.7 237.6 602.5S244.8 608.6 249.5 608.6H344.4V640.9C344.4 649 351 655.6 359.1 655.6S373.8 649 373.8 640.9V608.6H390.4C398.5 608.6 405.1 602 405.1 593.9S398.5 579.3 390.4 579.3ZM750.5 579.3H733.9V453C733.9 444.9 727.3 438.4 719.2 438.4S704.5 444.9 704.5 453V579.3H630L670.5 457.7C673 450 668.9 441.7 661.2 439.1 653.5 436.5 645.2 440.7 642.6 448.4L595.7 589.3C594.2 593.8 594.9 598.7 597.7 602.5S604.9 608.6 609.6 608.6H704.5V640.9C704.5 649 711.1 655.6 719.2 655.6S733.9 649 733.9 640.9V608.6H750.5C758.6 608.6 765.2 602 765.2 593.9S758.6 579.3 750.5 579.3ZM922.7 109.6H77.3C34.7 109.6 0 144.3 0 186.9V813.1C0 855.7 34.7 890.4 77.3 890.4H922.7C965.3 890.4 1000 855.7 1000 813.1V186.9C1000 144.3 965.3 109.6 922.7 109.6ZM77.3 138.9H922.7C949.1 138.9 970.6 160.5 970.6 186.9V234.8H29.4V186.9C29.4 160.5 50.9 138.9 77.3 138.9ZM922.7 861.1H77.3C50.9 861.1 29.4 839.5 29.4 813.1V264.2H970.6V813.1C970.6 839.5 949.1 861.1 922.7 861.1Z",
+        "width": 1000
+      },
+      "search": [
+        "computer"
+      ]
+    },
+    {
+      "uid": "2bdc0a95cfc2692b937861d5386b6d0b",
+      "css": "signs",
+      "code": 59646,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M602 248.9C602 187.2 553.1 138.3 491.4 138.3S380.8 185 380.8 246.8 429.8 357.4 491.4 357.4 602 310.5 602 248.9ZM559.8 248.9C559.8 287.2 530 317 491.6 317S423.5 285 423.5 248.9C423.5 210.5 453.3 180.7 491.6 180.7S561.8 210.5 559.8 248.9ZM639 579.3C648.8 560.9 755.3 369.3 755.3 272.3 755.3 121.3 636.1 0.1 491.4 0.1S227.6 123.6 227.6 272.3C227.6 342.8 285.3 469.1 344.9 580.5 136.3 608.5 0 690.1 0 785 0 906.2 219.2 999.9 500 999.9S1000 906.2 1000 785C1000 686.8 856.3 604.2 639 579.3ZM270.2 272.3C270.2 144.6 370.2 42.6 491.4 42.6 614.9 42.6 712.7 144.6 712.7 272.3 712.7 386.6 521.2 704.2 491.4 751.1 436.1 659.7 270.2 380.9 270.2 272.3ZM500 957.2C225.5 957.2 42.7 867.9 42.7 785 42.7 712.6 181.4 642.1 367.1 620.7 420.4 716.8 491.6 829.7 491.6 829.7S561.4 720.1 616.9 619.9C812.9 640.1 957.6 709.5 957.6 785 957.3 868.1 774.5 957.2 500 957.2Z",
+        "width": 1000
+      },
+      "search": [
+        "signs"
+      ]
+    },
+    {
+      "uid": "757276e52008850dee997264f6043b6f",
+      "css": "note-1",
+      "code": 59649,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M961.1 356.1L511.1 26C502.9 19.9 492.8 19.9 486.7 26L31.6 357.6C24.2 362.5 21.5 369.5 21.5 376V958C21.5 970.3 31.6 978.3 41.8 978.3H43.7 954.1 956.1C968.2 978.3 976.4 970.1 978.3 960V383.2C978.5 372.1 974.6 365.2 961.1 356.1ZM100.8 937.9L430.3 682.6 486.9 724.2C493.9 730.9 503.1 730.5 511.3 724.2L566 684.2 893.4 937.9H100.8ZM62.1 411.3L397.5 658.4 62.1 918.4V411.3ZM598.6 660L937.9 411.1V922.9L598.6 660ZM499 66.8L918.4 375 499 683.4 80.5 374.4 499 66.8Z",
+        "width": 1000
+      },
+      "search": [
+        "note"
+      ]
+    },
+    {
+      "uid": "f95fb6701d3a25a0c0d86adcdb3e4fb8",
+      "css": "telephone",
+      "code": 59650,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M974.3 97.3L930.5 53.8 929.3 55C910.7 40.4 889.2 28.2 866 19.2 844 10.8 823 5.5 802 3.1 632.9-17.2 478.3 60 268.7 269.6-21 559.5 0.9 793 1.9 803.1 4.6 825 9.8 846.1 18.1 867.5 27 890.4 39.2 911.8 53.8 930.4L52.9 931.4 96.1 975.5C128 1007.3 178.9 1008.3 209.7 977.6L364.2 823.1C394.8 792.4 393.9 741.5 362 709.6L284.2 631.8C286.9 626.9 289.7 621.8 292.8 616.4 320 567.4 357.3 500.1 428.1 429.3 499.1 358.3 566.4 321 615.6 293.7 620.9 290.8 625.8 288.1 630.6 285.4L682.8 337.6 708.4 363.2C740.4 395.1 791.2 396 822 365.3L976.4 210.8C1007.1 180.1 1006.2 129.2 974.3 97.3ZM942.1 176.6L787.7 331C775.9 342.8 755.6 341.9 742.6 328.9L638.5 224.7 622.2 234.3C613.2 239.6 603.1 245.2 592.1 251.3 540.4 280 469.6 319.3 393.8 395 318.2 470.6 279 541.3 250.4 592.9 244.2 604 238.5 614.2 233.1 623.4L223.4 639.6 327.7 743.8C340.7 756.8 341.6 777 329.8 788.9L175.4 943.3C163.5 955.1 143.4 954.2 130.4 941.2L111 921.8 103.6 914.1C91.8 901.8 75.3 880.7 63.2 849.9 56.5 832.4 52.2 815.2 50.1 797.7 49.9 795.5 31.1 575.8 302.9 304 534.1 72.8 667.3 35.8 796.3 51.3 813.4 53.2 830.6 57.6 848.6 64.3 879.5 76.5 900.6 93 912.8 104.8L940 131.6C953 144.6 954 164.8 942.1 176.6Z",
+        "width": 1000
+      },
+      "search": [
+        "telephone"
+      ]
+    },
+    {
+      "uid": "3e86f298940c9b66a4bdf37ccf1f41e7",
+      "css": "hours",
+      "code": 59651,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M500 0C224.3 0 0 224.3 0 500S224.3 1000 500 1000 1000 775.7 1000 500 775.7 0 500 0ZM500 950C251.9 950 50 748.1 50 500 50 251.9 251.9 50 500 50 748.1 50 950 251.9 950 500 950 748.1 748.2 950 500 950ZM182 480.6C182 471.4 174.5 463.9 165.3 463.9H76.4C67.2 463.9 59.7 471.4 59.7 480.6S67.2 497.2 76.4 497.2H165.3C174.5 497.2 182 489.8 182 480.6ZM795.1 480.6C795.1 489.8 802.6 497.2 811.8 497.2H900.7C909.9 497.2 917.4 489.8 917.4 480.6S909.9 463.9 900.7 463.9H811.8C802.6 463.9 795.1 471.4 795.1 480.6ZM489.6 193.4C498.8 193.4 506.3 185.9 506.3 176.7V87.8C506.3 78.6 498.8 71.2 489.6 71.2 480.4 71.2 472.9 78.6 472.9 87.8V176.7C472.9 185.9 480.4 193.4 489.6 193.4ZM489.6 806.6C480.4 806.6 472.9 814.1 472.9 823.3V912.2C472.9 921.4 480.4 928.8 489.6 928.8 498.8 928.8 506.3 921.4 506.3 912.2V823.3C506.3 814.1 498.8 806.6 489.6 806.6ZM437 200.8C434 192.1 424.5 187.5 415.8 190.5 407.1 193.5 402.5 203 405.5 211.7L505.8 503.5 284.2 719.7C277.6 726.1 277.5 736.6 283.9 743.2 287.2 746.6 291.5 748.3 295.9 748.3 300.1 748.3 304.3 746.7 307.5 743.5L536.6 520C541.3 515.5 542.9 508.8 540.8 502.7L437 200.8Z",
+        "width": 1000
+      },
+      "search": [
+        "hours"
+      ]
+    },
+    {
+      "uid": "fb4762412fdb7668ca0feb1045d71aed",
+      "css": "1460548438_menu1",
+      "code": 59652,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M31.3 218.8H968.8C986 218.8 1000 204.8 1000 187.5 1000 170.3 986 156.3 968.8 156.3H31.3C14 156.3 0 170.3 0 187.5 0 204.8 14 218.8 31.3 218.8ZM968.8 468.8H31.3C14 468.8 0 482.8 0 500 0 517.3 14 531.3 31.3 531.3H968.8C986 531.3 1000 517.3 1000 500 1000 482.8 986 468.8 968.8 468.8ZM968.8 781.3H31.3C14 781.3 0 795.3 0 812.5 0 829.8 14 843.8 31.3 843.8H968.8C986 843.8 1000 829.8 1000 812.5 1000 795.3 986 781.3 968.8 781.3Z",
+        "width": 1000
+      },
+      "search": [
+        "1460548438_menu1"
+      ]
+    },
+    {
+      "uid": "7f5d89a3242bafd7897240f15375eeec",
+      "css": "1460548440_grid",
+      "code": 59653,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M375 0H62.5C28 0 0 28 0 62.5V375C0 409.5 28 437.5 62.5 437.5H375C409.5 437.5 437.5 409.5 437.5 375V62.5C437.5 28 409.5 0 375 0ZM375 375H62.5V62.5H375V375ZM937.5 0H625C590.5 0 562.5 28 562.5 62.5V375C562.5 409.5 590.5 437.5 625 437.5H937.5C972 437.5 1000 409.5 1000 375V62.5C1000 28 972 0 937.5 0ZM937.5 375H625V62.5H937.5V375ZM937.5 562.5H625C590.5 562.5 562.5 590.5 562.5 625V937.5C562.5 972 590.5 1000 625 1000H937.5C972 1000 1000 972 1000 937.5V625C1000 590.5 972 562.5 937.5 562.5ZM937.5 937.5L625 937.5V625H937.5V937.5ZM375 562.5H62.5C28 562.5 0 590.5 0 625V937.5C0 972 28 1000 62.5 1000H375C409.5 1000 437.5 972 437.5 937.5V625C437.5 590.5 409.5 562.5 375 562.5ZM375 937.5L62.5 937.5V625H375V937.5Z",
+        "width": 1000
+      },
+      "search": [
+        "1460548440_grid"
+      ]
+    },
+    {
+      "uid": "cd111cbea384e6fd32792a1ceb6a8df0",
+      "css": "arrow551",
+      "code": 59406,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M770.8 312.1C758.1 305.4 747.2 299.7 739.8 295.1C686.2 261.4 628.5 228.3 568.5 196.7C512.3 167 453.3 138.3 393.2 111.3C377.6 104.3 362.7 95.5 346.8 86.2C320.7 70.8 293.7 54.9 262.5 46.8C233.9 39.3 210.7 44.2 195.4 60.3C174.9 81.8 173.7 116.6 175.3 147.9C177.8 200 178.4 253.4 179.1 305C179.3 329.8 179.6 354.6 180.1 379.4C181 425 181.5 470.6 182 516.3C183.3 634.3 184.6 756.4 193.5 876.7C193.8 880.7 194.6 884.6 196 888.7C199.7 912.2 217.6 928.9 239.5 928.9C245.4 928.9 251.4 927.7 257.3 925.4C372.6 879.8 489.1 812.5 613.5 719.6C666.4 680 720.5 636.3 774.2 589.7C784.1 581.2 797.3 571.9 811.2 562.1C848.4 536 890.6 506.4 904.2 466.9C909.4 451.6 911.7 427.6 892.8 400.2C866.9 362.7 811.4 333.5 770.8 312.1Z",
+        "width": 1000
+      },
+      "search": [
+        "arrow551"
+      ]
+    },
+    {
+      "uid": "11d7bba83918ffc6b0ddf26b977e259e",
+      "css": "flaticon_32341",
+      "code": 59419,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M146.3 853.8C341.3 1048.8 658.6 1048.8 853.6 853.8S1048.6 341.4 853.6 146.4S341.2-48.6 146.3 146.4S-48.8 658.7 146.3 853.8ZM185 185.2C358.7 11.6 641.2 11.6 814.8 185.2C988.4 358.8 988.4 641.3 814.8 815C641.2 988.6 358.6 988.6 185 815C11.4 641.3 11.4 358.8 185 185.2Z",
+        "width": 1000
+      },
+      "search": [
+        "flaticon_32341"
+      ]
+    },
+    {
+      "uid": "d1ceade4408fd1e40cb99c81016477f2",
+      "css": "sun42",
+      "code": 59429,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M891.1 222.8C808.5 116.3 694.5 59.6 569.4 55.4 565.1 53.4 560.5 51.7 554.8 50.9 248 7.6-33.8 282.6 7.6 592.9 41.1 843.6 284.2 990.3 522.9 951.7 734 917.7 952.1 766.6 990.2 544.4 1010.6 424.8 963.1 315.6 891.1 222.8ZM887.8 550.1C852.9 705.5 692.9 807.5 549.1 845.5 377.3 890.9 213.2 824.5 131.7 666 19.1 447 210 184.5 433.6 148.2 444.5 159.5 460.6 166 480.1 161.8 698.3 115.1 939.5 320.3 887.8 550.1Z",
+        "width": 1000
+      },
+      "search": [
+        "sun42"
+      ]
+    },
+    {
+      "uid": "8b7ea96a290275f82a09c049eb2e4557",
+      "css": "internet",
+      "code": 59646,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M885.2 403.7C866.7 311.1 785.2 240.7 685.2 240.7 651.9 240.7 622.2 248.1 596.3 263 551.9 181.5 466.7 129.6 370.4 129.6 225.9 129.6 111.1 244.4 111.1 388.9 111.1 392.6 111.1 400 111.1 403.7 44.4 433.3 0 496.3 0 574.1 0 677.8 81.5 759.3 185.2 759.3H325.9L259.3 870.4H740.7L674.1 759.3H814.8C918.5 759.3 1000 677.8 1000 574.1 1000 496.3 951.9 429.6 885.2 403.7ZM674.1 833.3H322.2L500 537 674.1 833.3ZM814.8 722.2H651.9L500 463 348.1 722.2H185.2C103.7 722.2 37 655.6 37 574.1 37 503.7 85.2 444.4 151.9 429.6 148.1 414.8 148.1 403.7 148.1 388.9 148.1 266.7 248.1 166.7 370.4 166.7 466.7 166.7 548.1 229.6 581.5 314.8 611.1 292.6 648.1 277.8 685.2 277.8 774.1 277.8 844.4 344.4 851.9 429.6 914.8 444.4 963 503.7 963 574.1 963 655.6 896.3 722.2 814.8 722.2Z",
+        "width": 1000
+      },
+      "search": [
+        "internet"
+      ]
+    },
+    {
+      "uid": "19ca159af5c4e6600a6477ccb749d714",
+      "css": "clock",
+      "code": 59432,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M500 0C224.3 0 0 224.3 0 500S224.3 1000 500 1000C775.7 1000 1000 775.7 1000 500S775.7 0 500 0ZM500 954.8C249.2 954.8 45.2 750.8 45.2 500 45.2 249.2 249.2 45.2 500 45.2S954.7 249.2 954.7 500 750.8 954.8 500 954.8ZM345.8 171L327.3 134.3 307.1 144.5 325.7 181.3C332.3 177.6 339.1 174.2 345.8 171ZM134.7 507.5C134.7 499.9 135.4 492.4 135.8 484.9H83.9V530.2H135.8C135.4 522.7 134.7 515.2 134.7 507.5ZM531.8 134.3V82.3H486.4V134.3C494 133.8 501.4 133.1 509.1 133.1 516.8 133.1 524.3 133.8 531.8 134.3ZM893.4 336.3L883.1 316.1 842.2 336.9C845.7 343.6 849 350.4 852 357.4L893.4 336.3ZM707.4 190.3C713.9 194.3 720.2 198.5 726.3 202.9L749 167.6 729.9 155.3 707.4 190.3ZM152.7 286.7L190 312.4C194 305.9 197.9 299.5 202.3 293.3L165.6 268 152.7 286.7ZM663.2 848.6L690.9 903.5 711.1 893.2 683.6 838.8C677 842.3 670.1 845.5 663.2 848.6ZM804.9 736.8L852.7 769.7 865.6 751.1 818.4 718.6C814.2 724.8 809.5 730.8 804.9 736.8ZM882.5 484.9C883 492.5 883.7 499.9 883.7 507.5 883.7 515.2 882.9 522.7 882.5 530.2H934.4V484.9H882.5ZM486.5 880.9V932.8H531.8V880.9C524.3 881.4 516.8 882.1 509.2 882.1 501.5 882 494 881.3 486.5 880.9ZM269.3 870.2L288.4 882.5 321.4 831.3C314.8 827.4 308.3 823.6 302.1 819.4L269.3 870.2ZM124.9 701.6L135.2 721.7 185.9 696C182 689.5 178.4 682.9 175 676.1L124.9 701.6Z",
+        "width": 1000
+      },
+      "search": [
+        "clock"
+      ]
+    },
+    {
+      "uid": "029f1f4c220b37fa84d2c93509f3e57b",
+      "css": "clock-1",
+      "code": 59651,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M500 978.5C235.4 978.5 21.5 764.6 21.5 500S235.4 21.5 500 21.5 978.5 235.4 978.5 500 764.6 978.5 500 978.5ZM500 62.3C257.6 62.3 62.3 257.6 62.3 500S259.8 937.7 500 937.7C742.4 937.7 937.7 740.2 937.7 500 937.7 257.6 742.4 62.3 500 62.3Z",
+        "width": 1000
+      },
+      "search": [
+        "clock"
+      ]
+    },
+    {
+      "uid": "8b8a7265e2e28c51b2ec41c7474914f0",
+      "css": "time",
+      "code": 59435,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "M500 0C224.3 0 0 224.3 0 500S224.3 1000 500 1000C775.7 1000 1000 775.7 1000 500S775.7 0 500 0ZM500 966.7C242.7 966.7 33.3 757.3 33.3 500S242.7 33.3 500 33.3 966.7 242.7 966.7 500 757.3 966.7 500 966.7Z",
+        "width": 1000
+      },
+      "search": [
+        "time"
+      ]
+    }
+  ]
+}

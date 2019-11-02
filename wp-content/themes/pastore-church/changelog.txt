@@ -1,0 +1,9 @@
+Version 1.2
+	* Social login improved
+	* VC theme setup updated
+
+Version 1.1
+    + Google Map update
+
+Version 1.0
+	Release

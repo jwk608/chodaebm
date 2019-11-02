@@ -1,0 +1,175 @@
+
+.timeline.flatLine .con_borderImage {
+    display: block !important;
+    float: left;
+    height: auto !important;
+    line-height: 0 !important;
+    margin: 0 58px 40px 0;
+    overflow: visible;
+    position: relative;
+    width: 53%;
+    z-index: 1;
+}
+.timeline.flatLine .con_borderImage:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 45px;
+    left: 55px;
+    height: -webkit-calc(100% - 20px);
+    height: -o-calc(100% - 20px);
+    height: calc(100% - 20px);
+    width: -webkit-calc(100% - 30px);
+    width: -o-calc(100% - 30px);
+    width: calc(100% - 30px);
+    border: 2px solid #f1d793;
+    box-sizing: border-box;
+    z-index: -1;
+}
+.timeline.flatLine .con_borderImage:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 45px;
+    left: -27px;
+    height: 2px;
+    width: 57px;
+    box-sizing: border-box;
+    z-index: 1;
+    background: #e54843;
+}
+.timeline.flatLine .item {
+    width: 1000px !important;
+    margin-bottom: 50px;
+}
+.timeline.flatLine .con_borderImage img {
+    max-width: 100% !important;
+    position: relative !important;
+}
+.timeline.flatLine .item .post_date {
+    background: transparent !important;
+    border-radius: 0;
+    color: #e54843;
+    display: block;
+    float: none;
+    font-size: 17px;
+    height: auto;
+    line-height: 20px;
+    margin: 42px 0 0;
+    padding: 0;
+    position: relative;
+    text-align: left;
+    width: auto;
+    z-index: 2;
+    font-weight: 500 !important;
+}
+.timeline.flatLine .item span  {
+    color: #666461;
+    font-size: 15px;
+    line-height: 28px;
+    margin: 0;
+}
+.timeline.flatLine .item .post_date span {
+    display: inline;
+    font-size: 17px;
+    line-height: 20px;
+    margin-left: 4px !important;
+    color: #e54843;
+}
+.timeline.flatLine .item .read_more {
+    display: inline-block !important;
+    float: left;
+    left: 0 !important;
+    margin: 10px 0 0 0 !important;
+    position: relative;
+    text-align: left;
+    width: auto !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.06em !important;
+    padding: 1.1em 2.4em !important;
+    text-transform: uppercase;
+}
+.body_wrap .timeline.flatLine .item .read_more {
+    font-size: 11px !important;
+}
+.timeline.flatLine .timeline_open_content {
+    font-size: 15px;
+    line-height: 26px;
+    padding: 25px;
+}
+.timeline.flatLine .timeline_open_content > h2 {
+    line-height: 130% !important;
+}
+.timeline.flatNav .t_left,
+.timeline.flatNav .t_right,
+.timeline.flatNav:hover .t_left,
+.timeline.flatNav:hover .t_right {
+    opacity: 1 !important;
+    filter: alpha(opacity=100) !important;
+    background: transparent !important;
+}
+.timeline.flatNav .t_left,
+.timeline.flatNav .t_right {
+    border: 2px solid #edeae6;
+    border-radius: 1px;
+    color: #ddd;
+    display:block;
+    cursor:pointer;
+    width:43px !important;
+    height:43px !important;
+    line-height: 43px !important;
+    margin-top: -20px !important;
+    font-size: 32px;
+    text-align:center;
+    top: 50% !important;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+    overflow: visible !important;
+}
+.timeline.flatNav .t_left:before,
+.timeline.flatNav .t_right:before {
+    font-family:'fontello';
+}
+.timeline.flatNav .t_right:before {
+    content:'\e8f4';
+}
+.timeline.flatNav .t_left:before {
+    content:'\e8fd';
+}
+.timeline.flatNav .t_left {
+    margin-left: 20px !important;
+    text-align: left !important;
+}
+.timeline.flatNav .t_left:before {
+    margin-left:-20px;
+}
+.timeline.flatNav .t_right {
+    margin-right: 20px !important;
+    text-align: right !important;
+}
+.timeline.flatNav .t_right:before {
+    margin-right:-20px;
+}
+.timeline h4.t_line_month, #content .timeline h4.t_line_month {
+    font-size: 16px;
+    font-weight: 500;
+    margin: -30px 0 0;
+}
+.timeline.flatLine a.t_line_node, #content .timeline.flatLine a.t_line_node {
+    color: #302221 !important;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 45px 0 4px;
+}
+.timeline .timeline_items, #content .timeline .timeline_items {
+    padding: 40px 0 0;
+}
+.timeline.flatLine a.t_line_node::after, #content .timeline.flatLine a.t_line_node::after {
+    height: 8px;
+    margin: 0 0 0 -7px;
+    top: 24px;
+    width: 8px;
+}
